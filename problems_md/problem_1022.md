@@ -1,5 +1,0 @@
-# Problem 1258. Checking the cables
-
-Offshore oil drilling platforms are held afloat in specific locations by powerful steel cables that connect them to massive anchors on the seabed. The break of even one such cable can lead to an imminent disaster. Underwater, and not only underwater, it is difficult to determine whether the intertwined threads inside the cable have broken. Therefore, cables, as a rule, are periodically replaced with new ones for preventive purposes. Economically, this is not always profitable, because after replacement it often turns out that the old cable was still quite suitable. It would be much more effective to identify break points right on the spot, and change expensive cables as necessary. How can you check whether the threads inside a thick metal cable are broken or not?
-
-(https://www.trizland.ru/tasks/5710/)

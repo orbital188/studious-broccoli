@@ -1,5 +1,0 @@
-# Problem 299. “Ball – meteorite simulator”
-
-A small ball (metal or stone), simulating a meteorite, is accelerated in a plasma jet to a speed of 8 km/s (1st cosmic velocity). The ball then hits the test object. It was necessary to double the speed - to 16 km/s. The acceleration required for this cannot be withstood by any material, neither the strongest nor the most plastic. They tried to reduce the acceleration by increasing the time and acceleration path - the ball in the plasma began to evaporate due to overheating. If you achieve the required impact speed due to the oncoming movement of the object, then the installation becomes incredibly expensive, because It is much easier to disperse a small ball than a large object - a piece of the skin of a satellite ship. What to do? Source: Sat. CRISIS - CNTI, 1992, p. 102
-
-(https://www.trizland.ru/tasks/5147/)

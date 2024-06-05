@@ -1,5 +1,0 @@
-# Problem 445. “Invention of Viktor Alekseev”
-
-Soviet coach Viktor Ilyich Alekseev trained a galaxy of Olympic champions. To a large extent, the students' successes were based on the ingenuity of the coach. Working with world record holder Vladimir Trusenev, the coach proposed a new version of the discus throwing technique. The training was difficult - it is difficult to break the skills developed over the years, which, moreover, made it possible to set a world record. Alekseev was known as a master of demonstration: when he came up with new elements of technique, he demonstrated them to his students during training, achieving repetition. But the coach did not have enough energy and time when working with Trusenev. And in this case, Viktor Ilyich’s ingenuity helped. What did the coach do?
-
-(https://www.trizland.ru/tasks/1751/)

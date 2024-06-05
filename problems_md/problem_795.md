@@ -1,5 +1,0 @@
-# Problem 1008. Boundary stone
-
-They say that once upon a time, Feyrouz, the son of Yazdegerd 1, was defeated by his neighbor and was captured. The ruler of the neighboring state decided to show nobility and release the defeated monarch. But he didn’t want to fight again! Yeah. Let's take a promise and oath - so that in the future he will not fight with us. After all, he is of royal blood and will not break his oath. This is what the winner did. Feyrouz was given the following condition for release: to give his word not to cross the border stone in order to attack the neighboring country. Naturally, the king gave his word, where can you go? Time has passed. Feyrouz restored and increased his military power. And he began to think... About what? Yes, about the same thing - about a military victory over a neighbor. But here he is, bound by an oath! Whether he himself or his advisors helped, he came up with a smart idea and, in the end, conquered the neighboring country. But what did Feyrouz come up with?
-
-(https://www.trizland.ru/tasks/1768/)

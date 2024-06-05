@@ -1,5 +1,0 @@
-# Problem 384. “Cologne - Potion?”
-
-In 1792, merchant Wilhelm Muelchens celebrated his wedding in Cologne. One of the guests, a monk of the Cortesian order, Franz Maria Farina, presented the newlyweds with an original gift - a piece of paper on which was written the formula “aqua mirabilis” - miraculous water. An enterprising businessman quickly established the production of an alcohol-water solution of aromatic substances, which at that time were used to treat heart ailments, headaches, and even try to fight the plague. When French troops occupied Cologne, the soldiers stole the reserves of the famous drug, which was called among themselves “Eau de Cologne.” And Napoleon issued a decree that was binding on everyone: from now on, no one has the right to hide the secret of making any medicine. What should the owners of the magic formula do? After all, parting with secrets means parting with income. How should they be?
-
-(https://www.trizland.ru/tasks/1507/)

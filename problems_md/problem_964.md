@@ -1,5 +1,0 @@
-# Problem 1197. P at the beginning of the alphabet
-
-In 1990, a new player appeared in the Chinese market of computer equipment manufacturers, which subsequently entered the international level. Following the ancient rule “whatever you name a ship, so it will sail,” they then decided to name the company after the mythological swift-winged horse – “Pegasus.” When registering a company, marketers drew the attention of the owners to the fact that in all directories, companies are most often located in alphabetical order. Therefore, a new company with ambitious plans and a name starting with the letter “P” will be located somewhere in the second half of any general list. The management did not want to abandon the original name. How did you solve the problem?
-
-(https://www.trizland.ru/tasks/5648/)

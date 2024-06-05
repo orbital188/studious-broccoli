@@ -1,5 +1,0 @@
-# Problem 1156. Stephen King and Richard Bachman 
-
-In the 1970s, American publishers had an unspoken cartel agreement: to publish no more than one book by the same author per year. Writer Stephen King managed to write several works in a year and, naturally, wanted them to reach readers as quickly as possible. King resorted to a trick: he began publishing novels under the pseudonym Richard Bachman. But in 1984, one “advanced” bookstore salesman suspected the similarity of the literary styles of Bachman and King and, after digging through the Library of Congress, brought the real author to light. Which he did not fail to inform the publishers about. For violating the cartel agreement, all publishing houses could turn their backs on Stephen King. How did the writer get out of this situation?
-
-(https://www.trizland.ru/tasks/5607/)

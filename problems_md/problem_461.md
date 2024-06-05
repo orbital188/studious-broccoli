@@ -1,5 +1,0 @@
-# Problem 589. “Reason for a diplomatic scandal”
-
-Once, during the time when Manchuria belonged to China, the governor-general of this region ordered the execution of one of the soldiers of his personal guard who had committed a serious offense. It so happened that, due to an oversight, the execution was carried out not in a specially designated place, and not demonstrably on the parade ground, but right in Dovre - in front of the windows of the consulate of one of the foreign states located opposite. The consul perceived this fact with caution, and the next day he came to the governor general for an explanation. A diplomatic scandal was brewing. What did the wise governor-general answer to the consul? Source: Li Boyuan's novel Exposing the World of Officials.
-
-(https://www.trizland.ru/tasks/5240/)

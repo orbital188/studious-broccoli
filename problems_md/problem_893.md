@@ -1,5 +1,0 @@
-# Problem 1122. Cunning boarding 
-
-In the 16th century, France and Spain fought a bitter war at sea for trade and colonial supremacy. The sailing ships had large cannons that fired cannonballs and were loaded from the barrel. These guns were a formidable weapon for an enemy ship, but loading them required enough time, during which the sailing ships could easily board. One day in 1551, the royal fleet of France met at sea with the royal squadron of Spain. Even before the dangerous approach of the fleets, the French managed to outwit the Spaniards. They forced the Spaniards to fire their loaded cannons without harming their ships, and then captured the entire squadron with their bare hands. How did the French manage to force the Spaniards to shoot all the guns ready for battle?
-
-(https://www.trizland.ru/tasks/5573/)

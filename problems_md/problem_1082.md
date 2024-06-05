@@ -1,5 +1,0 @@
-# Problem 1322. “Well, very thick ketchup”
-
-The American company Heinz, now a world-famous manufacturer of canned foods, unexpectedly faced a problem at the beginning of the 20th century, at the dawn of its formation. Ketchups, which then made up the bulk of the company’s products, ceased to be in demand among consumers after the introduction of new production technology. Customers complained that Heinz's new ketchups were impossible to shake out of their bottles. Significant funds were spent on the introduction of new technology. Changing it means throwing money away. And then, after reflecting on the situation, the company’s marketers found a way to turn this negative fact from the point of view of consumers into a positive one. As a result, the production technology did not change, but Heinz ketchups, on the contrary, began to gain popularity in the market. How did marketers manage to convince buyers?
-
-(https://www.trizland.ru/tasks/6084/)

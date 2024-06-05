@@ -1,5 +1,0 @@
-# Problem 868. “The bells are hoarse”
-
-Belgium in Europe is famous for its bells. They love bell ringing here - experienced bell ringers perform entire concerts on the bells! The bells are tuned so carefully - like organs! And in the old days, during the casting of a bell, townspeople were forbidden to leave their houses, slam doors, so that there would be no cracks in the bell and no distortion of the sound... For creaking a door in the corridor, one could end up behind bars! But in recent years, the bells have somehow become rattle, make incorrect sounds. The great singers are hoarse! Something broke in the sound mechanism irreversibly, irreparably. Chaos of sounds instead of a harmonious ensemble. Cacophony - instead of a soul-cleansing hymn to the sky. Why did the bells become hoarse? How do you think?
-
-(https://www.trizland.ru/tasks/1732/)

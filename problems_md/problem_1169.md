@@ -1,5 +1,0 @@
-# Problem 1413. “If the position is unavailable”
-
-Cardinal Mazarin, the first minister of France in the 17th century, was one of the most influential people in the state. Many at the royal court sought his favor. Mazarin himself singled out one nobleman among others for his loyalty, and wanted to reward him with some kind of lucrative position. However, time passed, and a convenient opportunity for this did not arise. When the nobleman realized that the minister's intentions might not be fulfilled, and the financial situation required improvement, he proposed his plan to Mazarin. At the same time, he did not cause much trouble to the minister, and as a result, the nobleman significantly increased his income at the expense of other courtiers. How did the nobleman manage to do this?
-
-(https://www.trizland.ru/tasks/6182/)

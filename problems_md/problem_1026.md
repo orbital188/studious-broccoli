@@ -1,5 +1,0 @@
-# Problem 1262. “Naked bathers”
-
-One American farmer built a small pond on his property far from his home, on the banks of which he loved to relax with his family and friends. The farmer equipped a swimming area, installed picnic tables, a barbecue, and lined the pond with apple trees. One day, taking a large bucket to collect fruit, he came to the pond and saw some unfamiliar girls swimming naked there. Seeing the owner of the pond and realizing that they would be punished for entering someone else's property, the girls swam away from the shore and shouted to the farmer that they would not leave the pond until he left. The farmer shouted to them that he had not come to spy on them. When he named the reason for his appearance at the pond, the girls themselves quickly swam to the shore and jumped out of the water, not looking at their nakedness. What did the farmer shout to the bathers?
-
-(https://www.trizland.ru/tasks/5715/)

@@ -1,5 +1,0 @@
-# Problem 274. “Testing a prototype in a stream of water”
-
-To study vortex formation, a mock-up of a device (parachute, tower, etc.) is placed in a glass pipe through which water is pumped. Observations are made by filming. However, colorless vortices are poorly visible against the background of a colorless flow. If you color the entire stream, observations are even more difficult. Therefore, a thin layer of soluble paint is applied to the model - the result is colored swirls on a colorless background. It's good to watch. But, unfortunately, the paint wears out quickly. If you apply a thick layer of paint, the dimensions of the model are distorted and observations become meaningless. The challenge is to provide long-term and accurate observations (without distortion). What should I do?
-
-(https://www.trizland.ru/tasks/5127/)

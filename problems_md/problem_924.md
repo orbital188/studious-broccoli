@@ -1,5 +1,0 @@
-# Problem 1154. Bridges in the Indian Jungle
-
-In the jungles of northeast India, there are pedestrian bridges spanning rivers that have grown as if naturally. But it could not have happened without human participation. To create such bridges, Indians most often used powerful vines that grow additional roots, such as rubber ficus. But vines are still “creeping” grass. How did the Indians build their bridges in the jungle, the length of which could reach up to 30 m? In the jungles of northeast India there are pedestrian bridges spanning rivers that grew as if naturally. But it could not have happened without human participation. To create such bridges, Indians most often used powerful vines that grow additional roots, such as rubber ficus. But vines are still “creeping” grass. How did the Indians build their bridges in the jungle, the length of which could reach up to 30 m?
-
-(https://www.trizland.ru/tasks/5605/)

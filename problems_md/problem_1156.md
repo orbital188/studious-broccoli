@@ -1,5 +1,0 @@
-# Problem 1398. “Calculate in order!”
-
-Professional football players carefully monitor their image, and the number under which the player enters the field is an integral part of it. Italian midfielder Roberto Baggio wore number 10 for most of his successful football career. Therefore, when he moved from the Bologna club to Inter in 1998, he demanded that this number be left to him. The Brazilian legionnaire “Inreta” Ronaldo, who previously had the “ten”, gave in to the “rookie” on one condition - he would play under the number “9”. But under the “nine”, an equally venerable striker from Chile, Ivan Zamorano, took to the field. Zamorano turned out to be more flexible. However, the Chilean also did not want to part with his “lucky” number. He agreed to wear number 18, and when he entered the field, he effectively demonstrated to the fans that he was still wearing number 9. How did Zamorano do this?
-
-(https://www.trizland.ru/tasks/6167/)

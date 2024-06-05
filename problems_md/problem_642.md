@@ -1,5 +1,0 @@
-# Problem 814. Tea Party on Baker Street 
-
-One day, Mr. Sherlock Holmes and Dr. Watson were drinking tea after another case. Holmes looked at the glass for several minutes without blinking, as if trying to discern something inaccessible to the eye of a mere mortal, and suddenly said: “I bet, Watson, you will never guess how much sugar you can pour into a glass of tea full to the brim.” . At the same time, note that you cannot spill a single drop from the glass. How much do you think? Try to check your guess. What did you observe? What happens to the density of tea in a glass? Does it increase, decrease, or remain the same? Dr. Watson asked Holmes to explain the illogical behavior of tea. Mr. Holmes was in difficulty, but still found an explanation. What would you answer to Dr. Watson?
-
-(https://www.trizland.ru/tasks/1581/)

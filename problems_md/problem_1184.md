@@ -1,5 +1,0 @@
-# Problem 1428. “Fish intrigues”
-
-Once upon a time, the 18th century French politician, diplomat and master of intrigue Charles Talleyrand gave a big noisy dinner for influential people in order to gain their favor. In Paris at that time there were shortages of fish. Talleyrand managed to get two huge salmon, with which he planned to impress those present. But his chef said that serving two such delicious fish at once is bad manners, and the reaction of those present may be exactly the opposite. Talleyrand came up with the idea of ​​serving the fish at the table in such a way that the rules of good manners were observed, and the guests were literally amazed by the noble luxury of the host. How did Talleyrand manage to impress influential people at dinner? For a methodology for solving this and other problems, see TRIZBOX.RU
-
-(https://www.trizland.ru/tasks/6197/)

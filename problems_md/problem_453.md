@@ -1,5 +1,0 @@
-# Problem 579. “Traffic Congestion”
-
-Once during World War II, a sapper unit under the command of Sergeant Major Gotseridze received an order to quickly mine the road along which a large enemy group was moving. However, by that time there were no mines left in the battalion, and waiting to receive the next batch meant not fulfilling the order on time. And yet, Gotseridze managed to create a traffic jam on the road in the movement of a tank column, and the artillerymen inflicted heavy losses on the enemy with targeted fire. How did he do it? Once during the Second World War, a sapper unit under the command of Sergeant Major Gotseridze received an order to quickly mine the road along which a large enemy group was moving. However, by that time there were no mines left in the battalion, and waiting to receive the next batch meant not fulfilling the order on time. And yet, Gotseridze managed to create a traffic jam on the road in the movement of a tank column, and the artillerymen inflicted heavy losses on the enemy with targeted fire. How did he do it?
-
-(https://www.trizland.ru/tasks/5234/)

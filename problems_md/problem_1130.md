@@ -1,5 +1,0 @@
-# Problem 1372. “Attack on drones”
-
-The development of technology has provoked the frequent appearance of unauthorized flying robots - drones - in the skies over Europe. In Holland this has become widespread, which is causing great concern to the national police. Drones that suddenly appear in the sky can create problems for aircraft that officially conquer the skies. At the same time, it is not known for what purpose they fly - maybe enthusiastic designers are having fun, or maybe this is how unauthorized surveillance and collection of classified information occurs. The Dutch “greens” drew the attention of law enforcement officers to the fact that flying robots are scaring away small birds that mistake drones for predators. After some thought, the police decided to use this particular resource to combat flying robots. How?
-
-(https://www.trizland.ru/tasks/6140/)

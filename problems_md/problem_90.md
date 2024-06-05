@@ -1,5 +1,0 @@
-# Problem 117. “Problems with packaging”
-
-One American company specializing in the production of household chemicals decided to add a new product to its product range. The product successfully passed all tests during use, but before releasing it to the market, the issue of packaging arose. What requirements do consumers have for household chemical products, and how can the packaging be checked to ensure it meets these requirements? One American company specializing in the production of household chemical products decided to add a new product to its product range. The product successfully passed all tests during use, but before releasing it to the market, the issue of packaging arose. What requirements do consumers have for household chemical products, and how to check the packaging for compliance with these requirements?
-
-(https://www.trizland.ru/tasks/5568/)

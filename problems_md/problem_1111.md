@@ -1,5 +1,0 @@
-# Problem 1351. American visa
-
-A Russian man, a US citizen, married a Russian student girl. After the marriage, the question arose about changing her student visa to a permanent one. It was necessary to undergo an interview at the migration department. There, spouses are always interviewed separately - they ask tricky questions and then compare the answers to exclude fictitious marriages. The newlyweds in love had previously lived in different cities and were very worried that the girl would not be given citizenship. So they turned to a consultant. He told them that the most important thing was the behavior of the spouses in the hall while waiting for an appointment, when experienced American psychologists were watching them on video cameras. The consultant suggested that the lovers show just one sign of attention to each other while waiting. They took the advice, after which the migration department gave them a green card without any questions. What did the consultant advise the newlyweds?
-
-(https://www.trizland.ru/tasks/6120/)

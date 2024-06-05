@@ -1,5 +1,0 @@
-# Problem 1170. “Where can I get money?”
-
-At the end of the 17th century, residents of the French colonies in the north of the American continent - the territory of present-day Canada - formed an independent settlement called New France. The means of payment in new France were the same coins as in France in the Old World, which were brought to the colonies on ships. But in 1685, the colony administration faced a problem. The workers and employees of New France had nothing to pay their due salaries. The money brought in was not enough. Ships with a new batch of money will not arrive soon. Workers and civil servants who are not being paid are ready to rebel. To print full-fledged paper money, there are neither raw materials, nor equipment, nor permission from the authorities from “old” France. We urgently need to look for at least a temporary full-fledged means of payment! What way out of this difficult situation did the intendant, the then treasurer of the French colony, find?
-
-(https://www.trizland.ru/tasks/5621/)

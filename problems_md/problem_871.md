@@ -1,5 +1,0 @@
-# Problem 1097. “What to do with the money?”
-
-In 1999, a new monetary currency was introduced in the European Union - the euro. It replaced national currencies. So in Germany, after 2002, the German mark completely disappeared from circulation. Before this, the country had printed a sufficient amount of money, which was withdrawn from circulation after the introduction of the single European currency. Metal coins can be melted down. But what to do with paper bills, even for the production of which significant funds were spent? Just burn it? This means simply throwing all your money down the drain. But the German brand banknotes used cellulose, linseed oil, wax, and non-toxic dyes. How to return at least part of the funds spent on the production of this paper money?
-
-(https://www.trizland.ru/tasks/5545/)

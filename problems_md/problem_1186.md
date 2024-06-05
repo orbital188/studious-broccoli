@@ -1,5 +1,0 @@
-# Problem 1430. Extra columns
-
-In the 17th century, the authorities of Windsor, England, ordered the architect Christopher Wren to complete the construction of the city hall building. Ren did a brilliant job. The building was two stories high. Half of the first floor was occupied by a spacious portico on supporting columns along the perimeter. The architect's idea created the impression that the second floor loomed menacingly over those entering the building. During the acceptance of the work, it was this impression that played a cruel joke on the architect: the city fathers were afraid that the second floor would collapse and insisted that Christopher Wren install more columns in the portico. No architectural or mathematical arguments were taken into account. The architect was faced with a choice: either complete the columns, but then he would have to make changes to the overall design of the building, or leave everything as is, but then he might not be paid, and someone else would still complete the columns. How did Christopher Wren get out of this situation?
-
-(https://www.trizland.ru/tasks/6199/)

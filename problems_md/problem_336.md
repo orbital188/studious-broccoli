@@ -1,5 +1,0 @@
-# Problem 421. “Cleaning wet ash collectors”
-
-When coal burns in the furnaces of steam generator boilers, ash is formed, which is captured by water. However, these wet ash collectors (due to the presence of sulfur in the coal) also produce very slightly soluble calcium sulfite. Its solubility in water is less than 1 mg/l. Whereas calcium sulfate has a solubility of 500 mg/l. This sulfite forms deposits on the walls of the apparatus, which must be cleaned of dense sediment. The precipitate could be dissolved in hydrochloric acid, but this would produce harmful sulfur dioxide. Now, if only we could oxidize sulfite to calcium sulfate! Typically, such oxidation is carried out with air at a very high temperature, which greatly complicates the process (in this case, waste processing). How to simplify the process of converting potassium sulfite into sulfate in wet ash collectors? Source: Sat. CRISIS - CNTI, 1992, p. 108.
-
-(https://www.trizland.ru/tasks/5184/)

@@ -1,5 +1,0 @@
-# Problem 93. Birds and Power Lines
-
-The number of birds killed on high-voltage wires, supports and masts of power lines cannot be counted. There are so many of them. And there are over 5 million supports of 6-10 kilovolt lines in the CIS. For example, in the steppes of Southern Russia, for 30 km. Power lines usually contain up to 70 dead birds, which, by the way, have long been listed in the Red Book. In the city of Zhigulevsk (Kuibyshev region) there are few trees and material for nests. After power lines appeared there, crows and jackdaws took a fancy to them and began to settle in, carrying pieces of wire and mesh from factories and warehouses. Short circuits followed one after another. Local authorities created teams that drove along power lines and removed nests. Not a very ideal solution I must say. How to save birds?
-
-(https://www.trizland.ru/tasks/1623/)

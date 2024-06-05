@@ -1,5 +1,0 @@
-# Problem 463. “Wisdom tooth”
-
-One St. Petersburg schoolboy accidentally ended up on an island inhabited by ferocious natives, he was grabbed and dragged to a high granite rock that looked like a huge tooth, five stories tall. The rock was called “Wisdom Tooth.” A wooden staircase was attached to it, the top step of which, painted red, was exactly at the level of the top of the rock. The boy was given to understand that the ladder should be supported by a rock, and he should stand on the red step and jump from it. Moreover, the jump must be performed in the traditional sports suit of the tribe - a skirt made of fern leaves and, of course, without any technical means. Needless to say, the entire soil around the rock was completely strewn with sharp stones. If you jump off and don’t get a single scratch, we’ll let you go, the native leader grinned; no, we’ll eat you. Either with the “Zub” or by tooth, the schoolboy thought and asked for half an hour to think. How to fulfill the conditions of the natives?
-
-(https://www.trizland.ru/tasks/1753/)

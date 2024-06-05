@@ -1,5 +1,0 @@
-# Problem 1459. “Letters with military secrets”
-
-In war conditions, each side of the conflict is especially concerned about the non-disclosure of secret information - about the deployment of troops, proposed maneuvers, the amount of equipment, etc. Secret data was obtained not only by “professional” spies and saboteurs. Information could also be contained in letters from ordinary soldiers. Thus, during the Second World War, after the opening of the “second front” in Europe, American, British, and Canadian soldiers wrote home en masse about their military everyday life. There were thousands of letters. To monitor whether soldiers are divulging military secrets, it would be necessary to maintain a huge staff. In wartime conditions this was clearly costly. What solution did the command of the Allied forces find?
-
-(https://www.trizland.ru/tasks/6235/)

@@ -1,5 +1,0 @@
-# Problem 972. “Labyrinth of the Minotaur”
-
-Once upon a time, the Greek city of Athens paid tribute every year to the Cretan king Minos with the most beautiful young men and women. And Minos gave them to be devoured by a monster called the Minotaur. The Minotaur lived in the Labyrinth. Anyone who entered the Labyrinth could no longer find a way out and wandered inside for a long time until he found himself at the monster’s dinner. When the time came for Athens to pay tribute once again, the lot fell on the brave hero Theseus.  In Crete, the captives were met by King Minos and his retinue. His daughter Ariadne was also in the retinue. Ariadne liked Theseus so much that she secretly gave the young man a sword so that he could kill the Minotaur. But what should the hero do, even if he defeats the monster? No one has yet been able to find a way out of the Labyrinth.
-
-(https://www.trizland.ru/tasks/1454/)

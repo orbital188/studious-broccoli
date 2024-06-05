@@ -1,5 +1,0 @@
-# Problem 74. “On the happiness of having two wives”
-
-One sheikh achieved the highest happiness on earth: he had two wives. Filled with joy, he went to the market and bought two identical gold necklaces and presented them to his wives, asking each not to tell the other about it. But earthly happiness is rarely cloudless. One fine day, both wives came to him, beside themselves with jealousy, and attacked him with questions: “Tell us, most magnificent of men, which of us do you love most?” “My dears, more than anything in the world I love you,” the sheikh answered, trying to calm them down. “No, no,” the wives protested. “We want to know which of the two of us you give your greatest love to?” “My adored ones, why are you quarreling?” I enclosed you both in my heart. But this was not enough for the wives. “You won’t get rid of us like that.” Come on, admit it, which of us is the mistress of your heart? What should a wise sheikh do?
-
-(https://www.trizland.ru/tasks/1781/)

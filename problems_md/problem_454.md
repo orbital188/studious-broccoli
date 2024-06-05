@@ -1,5 +1,0 @@
-# Problem 581. “Cows in the load”
-
-N.S. Leskov describes one case. He hitched a ride in a cart with a man on his way to the volost. The man said that the peasants collected a bribe and now he is taking it to the authorities. The purpose of the bribe is to ensure that the volost does not send cows of the Dutch breed to this village. At that time, peasant cows produced little milk, barely 700-1500 liters per year, with low fat content, and a Dutch cow - 5000-7000 liters per year. The peasants are given free Dutch cows - the tsar spent money from the treasury to improve the breed of Russian cattle. And the peasants collect money and give bribes so that they won’t be given these cows! How to understand this? Suggest and justify the hypotheses: why do the peasants behave so unreasonably, to put it mildly?
-
-(https://www.trizland.ru/tasks/1668/)

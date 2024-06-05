@@ -1,5 +1,0 @@
-# Problem 605. “Smartness against the Serpent Gorynych”
-
-The Serpent Gorynych got into the habit of ruining villages and kidnapping people. The region is empty. In one village, only the old and the young remained... One winter evening, the Serpent took away two children - a brother and a sister - and put them in prison - they say they will grow up until spring, then I will eat them. But the children turned out to be savvy. They raised such a scream and squeal that Gorynych lost peace and sleep, and most importantly, his appetite, all seven heads ached... And the Serpent Gorynych decided to outwit the children. “I’ll set you free,” he said, “if you bring me living water.” to rejuvenate. But here’s a condition: bring water - no dishes! There’s nothing to do - the children agreed. It’s known where the underground stream with living water is. How can the Snake's condition be fulfilled?
-
-(https://www.trizland.ru/tasks/1720/)

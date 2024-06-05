@@ -1,5 +1,0 @@
-# Problem 8. “Spiders in a flock”
-
-Swarms of spiders. Do they exist in nature? If so, why do spiders flock together? Surely, just like, for example, wolves, they flock together in order to hunt for large prey. It is known that such spiders exist in nature, and they jointly hunt for insects that they cannot cope with alone. However, in order to hunt in concert, they need a communication system. This is good for wolves - they have well-developed vision and hearing. And spiders have only one wealth - the web. Spiders living in groups use special web threads to disseminate information to all their relatives. In this case, the signal threads are quite long and therefore need to be secured somewhere. But a thread attached to a support cannot transmit vibrations. What about spiders?
-
-(https://www.trizland.ru/tasks/1631/)

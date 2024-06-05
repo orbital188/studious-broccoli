@@ -1,5 +1,0 @@
-# Problem 26. “Recognition at the cost of life”
-
-Aleksandar Hemon's novel The Lazarus Project describes the situation of a photojournalist named Rora at a checkpoint in Sarajevo during the war between Orthodox Serbs and Muslims. “In one of the Chetniks, Rora recognized his pre-war poker partner... Rora recognized him by his eyes - he more than once looked intently into these eyes at a card table littered with the currencies of different countries. The name of the former gambler was Zloyutro; and he immediately recognized Rora. I checked his pass, looked at his face and sternly shook his head: they say, do you think I’m a fool, or what? And he asked: “Who are you, anyway?” Rora could have lied and called himself a Serb, but the Chetnik knew that this was not true; if Rora had admitted that he was a Muslim, he could have been accused of espionage - in either case, he would have been in trouble. And Rora said: “What did the photojournalist answer to get out of the sticky situation?
-
-(https://www.trizland.ru/tasks/5038/)

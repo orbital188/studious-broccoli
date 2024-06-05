@@ -1,5 +1,0 @@
-# Problem 1321. “Who’s the last one at the car service?”
-
-Private car service in a small Russian town. There are plenty of people willing to urgently make minor car repairs. There are always queues. And there are always those who strive to get to the master, cunningly ahead of the rest. For the workshop workers, finding out who was first in line for repairs and who was second, who was standing and who was not standing, sometimes took more time than the car repair itself. And then the owner of the car service came up with an original idea, after the implementation of which all the cars stood calmly and orderly in line, and none of the drivers rushed forward. And even when the cars of the “tough guys” drove up to the car service center and, bypassing the queue, with the awareness of their chosenness, taxied straight to the gate, they immediately either drove away or calmly joined the back of the queue. How did the owner of the car service manage to restore order in the queue?
-
-(https://www.trizland.ru/tasks/6083/)

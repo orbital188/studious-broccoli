@@ -1,5 +1,0 @@
-# Problem 1136. “Give me a million!”
-
-In the 1870s, Edison's first phonograph appeared in Moscow, which was ordered from America by the wealthy merchant J. Blok. All of Moscow was talking about the outlandish device. The board of the Polytechnic Museum decided to buy the phonograph from Blok, but the dealer charged a huge price. We decided to ask for money from patrons of the arts, or rather from millionaire banker Lazar Polyakov. For this purpose, the Society of Natural History Lovers at Moscow State University organized a gala evening to which all moneybags were invited to clearly demonstrate all the capabilities of the phonograph. After the evening, Lazar Polyakov bought a phonograph for the Polytechnic Museum. What main argument did the organizers come up with to convince the banker?
-
-(https://www.trizland.ru/tasks/5587/)

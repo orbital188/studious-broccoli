@@ -1,5 +1,0 @@
-# Problem 1439. Safe Escalator
-
-In the first escalators - “moving stairs” - the most dangerous place for passengers was the gap between the moving step and the stationary platform under which the step is hidden. There was a danger that the heel or toe of a shoe of an unwary passenger would get caught in this gap. Then injury cannot be avoided! How was it possible to prevent the shoes of passengers riding an escalator from getting into the gap between the moving step and the stationary platform? In the first escalators - “moving stairs” - the most dangerous place for passengers was the gap between the moving step and the stationary platform, under which the step is hidden. There was a danger that the heel or toe of a shoe of an unwary passenger would get caught in this gap. Then injury cannot be avoided! How was it possible to prevent the shoes of passengers riding an escalator from falling into the gap between the moving step and the stationary platform?
-
-(https://www.trizland.ru/tasks/6208/)

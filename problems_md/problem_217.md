@@ -1,5 +1,0 @@
-# Problem 277. “Lubricant supply during hot rolling”
-
-During hot rolling, liquid lubricant must be supplied to the contact zone of the hot metal with the rolls. There are many lubricant supply systems: gravity flow along the roll, brushes, jets under pressure, etc. All these systems are ineffective, because the lubricant does not enter directly into the contact zone, splashes (due to the high speed of rotation of the rolls), flows unevenly, unregulated or in short supply. Much of the lubricant is lost, polluting the surrounding air. What is needed is an idea for a method of roll lubrication that will ensure the supply of the required amount of lubricant to the desired zone - without its loss and without significantly complicating the rolling equipment. Source: Sat. CRISIS - CNTI, 1992, p. 100.
-
-(https://www.trizland.ru/tasks/5130/)

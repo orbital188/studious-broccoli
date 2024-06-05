@@ -1,5 +1,0 @@
-# Problem 548. Demobilization chord by Roman Abramovich
-
-A real story from the life of Roman Abramovich. After two years of service in the army, Roman should have gone into civilian life. But in the army there is such a thing as a “demobilization chord.” This is when a soldier leaving the army must do something useful for his unit. And until he completes this work, he cannot leave. The idea is clear: a person dreams of getting home, he strives with all his might to do everything faster. For Roma, the demobilization chord turned out to be quite difficult. He, with a group of similar comrades finishing their service, was tasked with cutting a clearing in the forest for the future road. Work - for several months. And they want to go home. Question: what can be done in such a situation?
-
-(https://www.trizland.ru/tasks/5221/)

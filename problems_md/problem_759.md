@@ -1,5 +1,0 @@
-# Problem 954. “The lame donkey”
-
-The old father died, leaving his four sons as an inheritance of a single donkey, since he had nothing else. The brothers thought for a long time about how to divide such an inheritance, and came up with the idea: let the donkey belong to everyone and work for everyone, they just divided the legs. It happened that the donkey cut his elder brother's leg and could only walk on three legs. Since all the brothers suffered from this, they decided to treat the donkey together. They tied tow to the wound and set it on fire. The donkey ran away in pain and burned a neighbor's haystack. Not knowing how to divide the losses from the fire among themselves, the brothers turned to the judge. The judge made a decision: all brothers must pay, except the eldest. Try to guess why he decided this way? In your opinion, was the judge's decision correct?
-
-(https://www.trizland.ru/tasks/1573/)

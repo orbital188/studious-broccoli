@@ -1,5 +1,0 @@
-# Problem 139. “Cleaning up coke”
-
-Tubular reactors are widely used in chemical technology: a tower of up to 10 m. 200 tubes are located inside a durable metal casing. Their length is 9 m, external diameter is 60 mm, wall thickness is 5 mm. When the reactor is operating, liquid raw materials are supplied into the tubes under a pressure of up to 60 atm, and steam under a pressure of 40 atm is supplied into the inter-tube space. at a temperature of 250°C. Coke is deposited inside the pipes due to the decomposition of raw materials (due to side reactions). Periodically (once a month) you have to stop the reactor, cool it, remove the covers and drill out the coke in the tubes. This is done with a pneumatic drilling machine. It takes about 45 minutes to clean one pipe. Using ARIZ, propose a faster and more effective way to clean tubes from coke.
-
-(https://www.trizland.ru/tasks/5087/)

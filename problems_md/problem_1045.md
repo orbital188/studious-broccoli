@@ -1,5 +1,0 @@
-# Problem 1283. “Ants catch flies”
-
-Ants catch fliesIn the Amazon forests there are small ants that build their nests exclusively on the stems of a certain type of plant. The ants almost never go to the ground and feed on flies, grasshoppers, wasps, and other insects that land on the stems of this plant. Compared to ants, the insects are enormous in size. How do ants manage to catch their victims?In the Amazon forests there are small ants that build their nests exclusively on the stems of a certain type of plant. The ants almost never go to the ground and feed on flies, grasshoppers, wasps, and other insects that land on the stems of this plant. Compared to ants, the insects are enormous in size. How do ants manage to catch their victims?
-
-(https://www.trizland.ru/tasks/5738/)

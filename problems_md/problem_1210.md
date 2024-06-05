@@ -1,5 +1,0 @@
-# Problem 1457. “How they steal butter”
-
-One sunflower oil production plant encountered a theft problem. A large standard tanker truck transports oil from the processing site to the spill site. Pour oil into the tank through a sealed tap, drain it through a sealed hatch. The tank is standard. All hatches are sealed during transportation. And after each flight, it still turns out that about ten liters of oil do not reach the spill site. How can a thief manage to steal oil from a closed tank? One sunflower oil production plant encountered a theft problem. A large standard tanker truck transports oil from the processing site to the spill site. Pour oil into the tank through a sealed tap, drain it through a sealed hatch. The tank is standard. All hatches are sealed during transportation. And after each flight, it still turns out that about ten liters of oil do not reach the spill site. How do thieves manage to steal oil from a closed tank?
-
-(https://www.trizland.ru/tasks/6233/)
