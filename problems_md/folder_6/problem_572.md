@@ -1,0 +1,5 @@
+# Problem 572. “Misfire on stage”
+
+The French actor Talma was supposed to fall during one performance, mortally wounded. However, the gun in the hands of the other actor did not fire. The confused duelist unsuccessfully pulled the trigger several more times. Then he, having lost his head, ran up to Talma and, not knowing what to do, kicked him with all his might. What a situation! You need to make an instant decision - the performance is being performed online and there are no duplicates. By the way, the image of Talm himself depends on a successful move on stage. What would you do in Talm’s place. What would you do in the place of Talm’s partner when his gun did not fire. P.S. Someone probably knows what Talma really did. Note that other solutions are possible. Offer your options.
+
+[Problem Source](https://www.trizland.ru/tasks/1616/)

@@ -1,0 +1,5 @@
+# Problem 1164. Jumpers' dispute
+
+In the 1936 Olympics in Berlin, in the pole vault competition, two Japanese, Shuhei Nishida and Sueo Oe, showed the same result - 4.25 meters. This corresponded to second place. The judges were faced with a question: who to give preference to? As a result, the silver medal went to Nishida, and the bronze medal to Oe. Why is this so? According to one version, the judges simply tossed a coin to distribute the medals. According to another version, the Japanese Athletics Federation took into account that Nishida took the height on the first attempt, and Oe on the second. However, the athletes themselves were not satisfied with the judges' decision. Obeying traditional Japanese courtesy, with equal results, both Nishida and Oe were ready to concede victory to each other. And upon returning home, so that no one would be offended, in the end they found a compromise solution. How did the Japanese jumpers get out of this delicate situation?
+
+[Problem Source](https://www.trizland.ru/tasks/5615/)

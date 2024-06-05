@@ -1,0 +1,5 @@
+# Problem 1330. “Props for Sukhov”
+
+Part of the filming of the film “White Sun of the Desert” took place on the coast of the Caspian Sea in Dagestan. The film group was based in the city of Kaspiysk, where in the late 1960s the criminal situation left much to be desired. The filmmakers also suffered at that time: one night, thieves quietly removed from the film crew's location some of the valuable props necessary to ensure the safety of filming. At the same time, the film’s budget was already in a big minus, there was no way to interrupt filming, and there was no guarantee that the thieves would come again on any of the following nights. Director Vladimir Motyl was faced with the task of preserving the remaining props from the Caspian thieves. How did the director cope with the task?
+
+[Problem Source](https://www.trizland.ru/tasks/6098/)

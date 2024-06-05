@@ -1,0 +1,5 @@
+# Problem 106. “What is the loot?”
+
+Human curiosity has no limits. Everyone wants to know. Everyone wants to count. How many stars are there in the sky? How many drops of water are there in the ocean? How many animals are there on Earth? How much does an ant eat?.. Yes. How much does an ant eat? So the scientists asked this question - they wanted to determine the nutritional regime of one anthill. And for this we decided to establish the amount of production of an anthill in 1 hour. By the way, it is extremely undesirable to disrupt the rhythm of life of an anthill, since the result, in this case, will obviously be inaccurate, and the result obtained will be for unnatural conditions. So, how to measure the amount of food an anthill has per unit time without disturbing its natural habitat? Offer ideas and hypotheses.
+
+[Problem Source](https://www.trizland.ru/tasks/1818/)

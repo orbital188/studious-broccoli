@@ -1,0 +1,5 @@
+# Problem 726. “How to identify a terrorist”
+
+In the summer of 1988, almost before the arrival of the then American President Ronald Reagan in Moscow, the special services learned that an assassination attempt was being prepared on his life by a terrorist from a third country. There was very little information about the identity of the terrorist: a journalist, thin, 190 cm tall. Accredited journalists were already starting to arrive: there was no time to check the data. The only “intelligible” clue is height. Strict document checks during such an event will not surprise anyone. But measuring the height of arriving passengers can have an undesirable effect. What to do? How to identify a potential terrorist without attracting everyone's attention?
+
+[Problem Source](https://www.trizland.ru/tasks/5337/)

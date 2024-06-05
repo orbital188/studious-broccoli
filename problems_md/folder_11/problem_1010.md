@@ -1,0 +1,5 @@
+# Problem 1010. “Advice for the Court”
+
+Underground lawyer. One of Fazil Iskander’s heroes says: “...In this regard, I remember one funny old man who sat with me in Moscow in the Krasnopresnenskaya transit prison. He was an uncertified lawyer and was imprisoned for his underground legal activity. ...There was one guy in our cell who was facing a year in prison for hooliganism. Then there was such a decree. At the market he quarreled with some merchant and called her a prostitute. The police turned up and took him away. The guy was crazy with grief because he was about to get married. An underground lawyer agreed to help him. “...” He gave him one of his cunning pieces of advice that he had been using all his life. He advised him at the trial...” So, what advice was given to the guy?
+
+[Problem Source](https://www.trizland.ru/tasks/1770/)

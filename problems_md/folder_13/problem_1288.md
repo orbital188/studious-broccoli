@@ -1,0 +1,5 @@
+# Problem 1288. “Drink and chat”
+
+Carbonated drinks in small bottles allow a person to quench their thirst or wash down a hastily eaten sandwich. For convenience, manufacturers often sell such drinks through special vending machines. It is assumed that everyone will choose and buy a bottle of drink to their taste. The emphasis is on individual consumption. But there are situations in life when such “consumer disconnection” is not beneficial. For example, in a new company where no one really knows anyone yet. One company, a manufacturer of bottled drinks for individual consumption, decided especially for this situation to make its product a reason for joint action by consumers and, accordingly, force strangers to communicate with each other. How did the company manage to do this?
+
+[Problem Source](https://www.trizland.ru/tasks/5744/)

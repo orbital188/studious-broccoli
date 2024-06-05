@@ -1,0 +1,5 @@
+# Problem 720. “Beautiful disgrace”
+
+Michelangelo was one of the leaders of the Florentine uprising. When Medici troops crushed the uprising, the Pope invited Michelangelo to build the Medici Chapel. Inside there should have been sculptural portraits of the Medici family. Michelangelo hardly felt any love for the people who took away the freedom of Florence. And he agreed to this job because he wanted to create a caricature of the Medici. It was, at first glance, not difficult: the Medici were not distinguished by their beauty and intelligence. But it was impossible to emphasize these qualities in a caricature - this would mean the end of the artist (and these sculptures would not have reached the viewer). But Michelangelo could not lie when creating laudatory portraits. How to accomplish your plans?
+
+[Problem Source](https://www.trizland.ru/tasks/1481/)

@@ -1,0 +1,5 @@
+# Problem 1133. The correct message 
+
+In the Middle Ages, one poor Jew worked as a teacher in the city and sent money to his wife in the village. One day he learned that a hawker selling small goods would be passing through the village where his family lived. The teacher decided to transfer money with him. The peddler agreed to take it only on one condition: he would give her as much of this money as he wanted. The teacher guessed that the peddler was going to pocket most of the amount, so he gave a note to his wife along with the money. But he was also sure that his wife, having received the money and read the note, would not reconcile herself and would take the peddler to the local rabbi to resolve the dispute. That's exactly what happened. And the teacher’s wife received from the peddler almost all the money that her husband gave her. What did the teacher write in the note so that the peddler would be satisfied with his demand, and the wife, after communicating with the rabbi, would receive most of the money transferred?
+
+[Problem Source](https://www.trizland.ru/tasks/5584/)

@@ -1,0 +1,5 @@
+# Problem 7. Signal network
+
+Oh, World of Smells! Oh, World of light and color! Oh, the World of sounds!.. The worlds in which we live. What about the World of touch? In this world, a person does not feel very confident - there are no developed organs. Spiders live in the World of Touch. At the tips of their legs, spiders have extremely sensitive organs of touch. The arachnoid network is, as it were, a tactile organ of an insect carried far from the body, transmitting information. However, there are always many influences on the web - the influence of wind and rain, the influence of large animals and insects. I wonder how a spider obtains the necessary information from a large number of influences on the web? Why doesn't he rush at every movement of the net?
+
+[Problem Source](https://www.trizland.ru/tasks/1629/)

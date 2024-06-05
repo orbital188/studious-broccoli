@@ -1,0 +1,5 @@
+# Problem 1332. Globe of military Europe
+
+Globe of Wartime EuropeIn the early 1940s, when World War II had already begun, it was clear to everyone that the state and political picture of Europe would change. Therefore, most publishing firms that specialized in the production of maps, atlases and globes suspended their activities. Despite this, one British company, on the contrary, actively collected orders for the production of globes, guaranteeing buyers the accuracy of their maps under one condition. What condition did the company set for its potential customers?In the early 1940s, when World War II had already begun, it was clear to everyone that the state and political picture of Europe would change. Therefore, most publishing firms that specialized in the production of maps, atlases and globes suspended their activities. Despite this, one British company, on the contrary, actively collected orders for the production of globes, guaranteeing buyers the accuracy of their maps under one condition. What condition did the company set for its potential customers?
+
+[Problem Source](https://www.trizland.ru/tasks/6100/)

@@ -1,0 +1,5 @@
+# Problem 1440. Extra spacers
+
+In the 19th century, the first flying airships had a fabric shell. It was stretched over a wooden frame with transverse and longitudinal struts. Without a frame, the fabric simply folded in flight. The air inside the fabric shell - to increase the flight duration - could only be heated to a certain temperature. This was a big drawback. With the invention of light aluminum alloys, all-metal airships appeared: both the frame and the shell were made of duralumin, a light alloy of aluminum. The total weight of the airship, of course, increased. In 1912, K. N. Tsiolkovsky proposed his design of an all-metal airship. To lighten the weight, there were no longitudinal struts in its frame, but the airship itself retained the strength of its shape. How did Tsiolkovsky manage to achieve this?
+
+[Problem Source](https://www.trizland.ru/tasks/6209/)

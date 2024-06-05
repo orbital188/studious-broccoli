@@ -1,0 +1,5 @@
+# Problem 1281. “Whose name will remain for centuries?”
+
+In the 3rd century. BC. The Egyptian king Ptolemy ordered the construction of a high lighthouse on the small island of Pharos in the Mediterranean Sea. Sostratus from Cyprus was assigned to supervise the work. The lighthouse was supposed to not only show the way to ships sailing to the capital of Egypt, but also perpetuate the name of the ruler himself. Therefore, Ptolemy ordered a marble tablet with his name to be carved at the foot of the lighthouse. Sostratus understood that the structure he was erecting would stand for many centuries and considered it undeserved that descendants would praise the king who gave the order for the construction, and not him, the real creator of the “miracle of the world.” But you can’t violate Ptolemy’s order. And yet, Sostratus managed to immortalize his name in a marble inscription on the lighthouse. How did he do it?
+
+[Problem Source](https://www.trizland.ru/tasks/5736/)

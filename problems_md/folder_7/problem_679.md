@@ -1,0 +1,5 @@
+# Problem 679. “Sulfur extraction”
+
+At the beginning of the 20th century, the American Frasch invented a new method of extracting sulfur: drilling a well above the formation and pumping boiling water into it. The sulfur will melt (Tm=120°C), and it can be pumped to the surface. But it is almost impossible to use the Frasch method today, when the environmental protection law is in force: what to do with water saturated with hydrogen sulfide, which not only kills fish, but also kills flies? We decided to pump this water back into the reservoir. But the recycled water leaves such a strong scale that the pipes get clogged every now and then. Sodium tripolyphosphate was added to the circulating water. After this, the sediment began to fall out in the form of scales rather than settle on the pipe, but it also needs to be gotten rid of. What to do? Source: Sat. RTEZ 1999, Ed. ChuvSU, s. 95
+
+[Problem Source](https://www.trizland.ru/tasks/5308/)

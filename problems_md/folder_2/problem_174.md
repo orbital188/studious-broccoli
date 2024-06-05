@@ -1,0 +1,5 @@
+# Problem 174. “Is your leg cramped?”
+
+Pain. Limited movement and a whole bunch of other troubles await a person after a fracture. However, a fracture can also have favorable consequences. It turned out that people who broke a leg in which there were blockages in the arteries had their blood circulation restored. When a fracture occurred, protection was triggered, supplying the necessary substances to the fracture site and removing waste. Reserve blood vessels opened in the fracture area and new ones began to grow. It turned out that this method can treat blockages in the arteries, but for this you need to break your leg! In addition, after the fracture heals, the vascular reaction will stop. And it will turn out that you need to break your leg again. What to do?
+
+[Problem Source](https://www.trizland.ru/tasks/1537/)

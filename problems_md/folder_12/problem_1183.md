@@ -1,0 +1,5 @@
+# Problem 1183. “Meat on a spit”
+
+A whole pig or duck roasted on a spit over a fire is an old favorite dish of many peoples. One of the peculiarities of its preparation is that the spit must be constantly turned so that the meat does not burn. This was done, naturally, by a man. But in the Middle Ages, some English houses used a simple and affordable way to mechanize this process. What did the British come up with so that a spit with meat roasted on a fire turns on its own? A whole pig or duck roasted on a spit over a fire is a long-standing favorite dish of many peoples. One of the peculiarities of its preparation is that the spit must be constantly turned so that the meat does not burn. This was done, naturally, by a man. But in the Middle Ages, some English houses used a simple and affordable way to mechanize this process. What did the British come up with so that the spit with meat fried over the fire turns on its own?
+
+[Problem Source](https://www.trizland.ru/tasks/5634/)

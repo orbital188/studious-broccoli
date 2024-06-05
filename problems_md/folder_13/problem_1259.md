@@ -1,0 +1,5 @@
+# Problem 1259. “Simply tough”
+
+Typically, tin cans for long-term food storage are made of thin tin. But the tin must also be thick enough so that during transportation there is no danger of the tin can deforming from the slightest shock. Even a small reduction in metal thickness with huge production volumes of cans will bring a significant economic effect. How can this contradiction be resolved while maintaining the required level of strength? Typically, cans for long-term storage of food are made of thin tin. But the tin must also be thick enough so that during transportation there is no danger of the tin can deforming from the slightest shock. Even a small reduction in metal thickness with huge production volumes of cans will bring a significant economic effect. How can this contradiction be resolved while maintaining the required level of strength?
+
+[Problem Source](https://www.trizland.ru/tasks/5711/)

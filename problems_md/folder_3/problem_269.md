@@ -1,0 +1,5 @@
+# Problem 269. Sticky concrete
+
+It is necessary to make a 300-meter concrete column using the sliding formwork method. However, the formwork metal sticks to the setting concrete because the metal oxide film on the surface of the steel is wetted by water. To avoid this, the formwork is lubricated with used machine oil. As a result, the concrete does not stick to the steel, but the oil spoils the concrete: before painting the concrete, you have to wait 1-2 years until rains and other weather events wash away this oil from the surface of the column. If you do not lubricate the concrete with oils, then when the formwork is torn from the concrete, dents will form on the surface, which then have to be plastered. How to get rid of these shortcomings? How to prevent concrete from sticking to steel? Source: Sat. CRISIS - CNTI, 1992, p. 87)
+
+[Problem Source](https://www.trizland.ru/tasks/5123/)

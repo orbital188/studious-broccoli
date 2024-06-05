@@ -1,0 +1,5 @@
+# Problem 122. “Killer Turtle”
+
+Once - in the 5th century BC - an event occurred that amazed and frightened the inhabitants of the Greek city of Abdera. One elderly citizen went out for a walk outside the city. Suddenly a turtle fell from the sky onto his head. So much so that he instantly lost his life. The unusual event excited the townspeople. They decided that the fall of the turtle was a divine warning to the Abderites, mired in sins. One thing was confusing: why did the turtle kill the Abderite, who had no sins? Then they decided that he had to bear punishment for the sins of his ancestors. All the Abderites were satisfied with this explanation and calmed down. Only one resident of the city did not agree with this opinion of his fellow citizens and ridiculed it. It was Democritus: the philosopher of Ancient Greece.
+
+[Problem Source](https://www.trizland.ru/tasks/1810/)

@@ -1,0 +1,5 @@
+# Problem 62. The Gardener's Revenge 
+
+In the garden of a certain sage there lived a magnificent peacock. The bird was the gardener's delight. He nurtured and cherished her. And the envious and greedy neighbor still could not come to terms with the fact that someone had a peacock more beautiful than his. Out of envy, he threw stones at the bird. The gardener saw this and became very angry. But the neighbor decided to flatter the gardener and asked him to give him one chick. The gardener flatly refused. Then the neighbor humbly turned to the owner with a request to give one peacock egg to put on the hen, and she would hatch the chick. The owner asked the gardener to give his neighbor an egg from a peacock clutch. The gardener complied with the command. After some time, an angry neighbor came to the owner with a complaint: “There is something wrong with the egg, my hens sat on it for weeks, but the chick did not hatch.” The owner called the gardener: “You gave our neighbor an egg. Why didn’t a peacock chick hatch from it?” What happened?
+
+[Problem Source](https://www.trizland.ru/tasks/1780/)

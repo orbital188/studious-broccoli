@@ -1,0 +1,5 @@
+# Problem 562. The Emperor's Hydrophobia
+
+Tai Tsung (626 - 649), emperor of the Tang state, which was located on the site of modern China, once undertook a military campaign against the state of Koguryo on the Korean Peninsula. When the emperor's troops reached the sea, Tai Tsung lost heart: there was only water ahead, water without end and without edge. And although his military leaders wanted to continue the campaign, the emperor, faced with a water barrier, was inclined to return home. He did not want to leave land, where he felt confident. But the military leaders, under the leadership of the cunning general Xue Rengui, managed to convince their emperor to continue the campaign. How did they do it? Source: Senger H. von. Stratagems. About the Chinese art of living and surviving. Volume 1. - M.: Eksmo Publishing House, 2004.
+
+[Problem Source](https://www.trizland.ru/tasks/5225/)

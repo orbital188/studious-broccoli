@@ -1,0 +1,5 @@
+# Problem 958. “Ghost tram”
+
+Three brothers, returning home from the theater, approached the tram stop to jump on the first one that came. The tram did not show up, and the older brother suggested waiting. “Rather than stand here and wait,” answered the middle brother, “we’d ​​better go forward.” When some tram catches up with us, then we’ll get on; and in the meantime, at least part of the journey will be behind us. And we'll get home soon. “If you’re already going,” objected the younger brother, “then not forward in the movement, but in the opposite direction; Then we’ll be more likely to see an oncoming tram, and we’ll arrive home earlier. Since the brothers could not convince each other, each acted in his own way: the eldest remained to wait in place, the middle one went forward, the youngest went back. All three brothers arrived home at the same time. Explain how this could happen?
+
+[Problem Source](https://www.trizland.ru/tasks/1569/)

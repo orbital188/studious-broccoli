@@ -1,0 +1,5 @@
+# Problem 600. The Angry Genie 
+
+Once a peasant dug up a jug in his field. He immediately opened it - he thought to find gold coins... But an angry Genie jumped out of the jug. “For a thousand years I prayed to God that someone would set me free,” he shouted, shaking his fists. – I promised the savior mountains of gold and diamonds... But no one heeded my requests! Then I decided to deal with those who would disturb my peace. Another thousand years have passed, and now you have decided to mine treasures in your own garden!!! Say goodbye to life, unfortunate one! But the peasant was not timid... - Be it your way, Genie. But fulfill my last request. “Speak,” the Genie reluctantly agreed. - I will do it. But keep in mind: I won’t let you go, I won’t cause myself any harm, and I won’t climb back into the jug. I also read fairy tales - you can’t fool me. The peasant made his request - and survived. What exactly did he ask for?
+
+[Problem Source](https://www.trizland.ru/tasks/1583/)

@@ -1,0 +1,5 @@
+# Problem 1145. Children's strikes 
+
+During the Second World War, Canada had fixed prices for consumer goods. After the war, prices were “released.” This led to inflation. Surprisingly for everyone, children reacted most actively against rising prices. It’s just that the price of a chocolate bar beloved by many in stores jumped from 5 to 8 cents. In the spring of 1947, Canadian children and teenagers, with the tacit consent of adults, began to independently organize public boycotts and peaceful demonstrations near grocery stores across the country. The producers of sweets suffered the most from these actions. But, if you can somehow explain to adults the conditioned rise in prices, is it not so easy to “calm down” children? And yet, Canadian candy manufacturers managed to “resolve” the conflict. How did they do it?
+
+[Problem Source](https://www.trizland.ru/tasks/5596/)

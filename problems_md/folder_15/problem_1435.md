@@ -1,0 +1,5 @@
+# Problem 1435. “Censorship never sleeps”
+
+All press in Russia at the beginning of the twentieth century was reviewed by state censors before publication. The weekly magazine Satyricon, published in St. Petersburg and edited by Arkady Averchenko, often published caustic caricatures and satirical materials. The censors sometimes didn't let them through. But disrupting the publication of the magazine meant losing readers. There was not enough time to replace the banned article. How can journalists get out of a difficult situation? All press in Russia at the beginning of the twentieth century was reviewed by state censors before going to press. The weekly magazine Satyricon, published in St. Petersburg and edited by Arkady Averchenko, often published caustic caricatures and satirical materials. The censors sometimes didn't let them through. But disrupting the publication of the magazine meant losing readers. There was not enough time to replace the banned article. How can journalists get out of a difficult situation?
+
+[Problem Source](https://www.trizland.ru/tasks/6204/)

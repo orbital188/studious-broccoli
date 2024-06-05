@@ -1,0 +1,5 @@
+# Problem 1125. “What is our life? A game!”
+
+In the mid-19th century, a French adventurer and swindler named Laforcade traveled from Europe to Havana, where he tried his luck at the card tables in the Spanish high society there. In one of the gambling establishments, he managed to get hold of several brand new decks of cards, which he intended to mark in a special way, so that later, using them, he could beat his opponents. At home, Laforcade was surprised to discover that all the cards in the decks were already marked. The fraudster guessed that a “competitor” had already arrived in Havana before him, who had quietly marked most of the playing cards in the city. In the end, Laforcade identified this man and for some time blackmailed him with the idea that he would reveal his tricks. How did the fraudster manage to secretly mark almost all the playing cards in Havana?
+
+[Problem Source](https://www.trizland.ru/tasks/5576/)

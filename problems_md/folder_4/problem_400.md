@@ -1,0 +1,5 @@
+# Problem 400. “Hydrogenation of acetylene on catalysts”
+
+The process of selective hydrogenation of acetylene in the ethane-ethylene fraction occurs on catalysts with the release of a large amount of heat: H2C = CH2 + HCCH + H2 = (kat; t) => H2C = CH2 + Q. During the process, the temperature in the catalyst bed increases significantly and unacceptably. The temperature difference reaches 40-60 ° C. Known catalysts have a selectivity temperature range at which the required degree of purification from acetylene is achieved, no more than 15-25 ° C. Therefore, large losses of ethylene are observed (with the formation of ethane). The construction of reactors with intermediate cooling greatly complicates the reactor and increases the cost of the process. How to improve the process to reduce the temperature difference and increase selectivity? Source: Coll. KRIZ - CNTI, 1992, p. 107.
+
+[Problem Source](https://www.trizland.ru/tasks/5175/)

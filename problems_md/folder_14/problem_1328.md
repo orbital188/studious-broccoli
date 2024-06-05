@@ -1,0 +1,5 @@
+# Problem 1328. “Condoms in luggage”
+
+Once, three officers from the same military garrison were sent to the capital for a week. Returning from a business trip, two friends decided to play a prank on their third friend and quietly put a pack of condoms in his luggage in such a way that his wife would discover them. The calculation turned out to be correct. Seeing condoms in her husband’s suitcase, the wife naturally demanded an explanation from her husband. She shared the answer with her friends - the wives of two other business travelers. And they, in turn, gave their husbands a serious thrashing about their unworthy behavior on a business trip. How did the husband explain to his wife the presence of condoms in his luggage, taking revenge on his fellow jokers “in the same coin”?
+
+[Problem Source](https://www.trizland.ru/tasks/6097/)

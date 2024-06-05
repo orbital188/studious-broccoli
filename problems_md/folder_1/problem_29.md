@@ -1,0 +1,5 @@
+# Problem 29. “How to get a tip?”
+
+After the reunification of Germany (Western and Eastern), restaurant owners in Florida (USA) began to have difficulties with German tourists. Interesting: Germany united, but problems arose in an American restaurant. Why suddenly? It's simple: East Germans began to travel and “drop in” to this very Florida restaurant. They just didn’t know how much it was customary to tip. And they inadvertently underpaid tips - unlike the West Germans, who knew the accepted rules and did it regularly. And who wants to miss out on their income? So the waiters began to think - what to do? West Germans, of course, give the required amount of tips themselves, and East Germans... can be included in the bill. You just need to “sort” West Germans from East Germans, and not offend any of them. How to do it?
+
+[Problem Source](https://www.trizland.ru/tasks/1775/)

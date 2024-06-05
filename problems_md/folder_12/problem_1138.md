@@ -1,0 +1,5 @@
+# Problem 1138. “What does it cost us to build a house?”
+
+In the 1920s, as a result of the development of new technologies, New York experienced a kind of boom in the construction of skyscrapers. Many companies began to build multi-story buildings and even compete to see whose house would be the tallest. To win this unofficial competition of prestige, the builders of the house at 40 Wall Street changed the design already during the construction process, increasing the height of several winning meters. Their closest competitors, the builders of the Chrysler Building, found out about this and also made adjustments to the project. As a result, the Chrysler Building turned out to be not only the tallest in New York, but even taller than the famous Eiffel Tower. At the same time, changes to the project did not require large expenses. How did the builders of the Chrysler Building manage to beat their competitors?
+
+[Problem Source](https://www.trizland.ru/tasks/5589/)

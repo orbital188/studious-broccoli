@@ -1,0 +1,5 @@
+# Problem 1418. “Let’s synchronize watches”
+
+One of the favorite corporals of the Prussian king Frederick the Great really wanted to have a pocket watch on a chain. Pleasure in those days was not cheap. Therefore, the corporal wore just a chain for show, and in his pocket, instead of a watch, he hid a bullet to which the chain was attached. One day the king noticed this chain: “I see you got rich, corporal, and got yourself a watch? Let’s compare our watches to see whose is more accurate.” The corporal, who found himself in an unpleasant situation, had no choice but to take a bullet on a chain from his pocket. But after explaining this fact, the king not only praised the corporal, but also granted him his watch. How did the corporal justify himself to the king?
+
+[Problem Source](https://www.trizland.ru/tasks/6187/)

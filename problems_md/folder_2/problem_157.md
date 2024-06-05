@@ -1,0 +1,5 @@
+# Problem 157. “Buy a dish”
+
+In “The Tale of Ala ad-Din and the Magic Lamp” from the tales of “1001 Nights,” Ala ad-Din “took one of the dishes that the genie brought him and went to the market, and a merchant met him. And Ala ad-Din gave him this dish, and he took it aside so that no one could see, and looked at the dish, and recognized that the silver of the dish was pure, unmixed, but he did not know, Ala ad-Din was a knowledgeable man or he is ignorant in such matters. “Hey, boy, how much are you asking for this dish?” he asked. And Ala ad-Din answered: “You better know how much it costs.” And the merchant was confused, not knowing. how much to give, for, although Ala ad-Dn was ignorant, his answer was the answer of people who understood. He decided to give him little, but was afraid that Ala ad-Din knew the price and cost of the dish, and if he gave a lot, then maybe Ala ad-Din was an inexperienced person and did not know how much the dish cost.” What should a merchant do? to buy a dish cheaply and without mutual accusations of dishonesty?
+
+[Problem Source](https://www.trizland.ru/tasks/1872/)

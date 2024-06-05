@@ -1,0 +1,5 @@
+# Problem 410. Battle of the Lorians 
+
+Space pilot Johnny Bezic ends up on the planet Loris, where relations between people are close to ideal. It was a real paradise: a highly developed civilization, the highest level of technology. It turned out that between the civilizations - Loris and Earth - there would inevitably be a clash in the struggle for dominance. The battle is inevitable. The level of technology leaves no doubt about the victory of the Lorians. But psychology is also very important. Lorians are straightforward and honest people. Earthlings are aggressive, unbalanced and capable of any treachery. Therefore, the Lorians will not be able to psychologically resist the earthlings. And, as a result, their defeat. But the Lorians find a way out and successfully solve the problem. What exactly did they do?
+
+[Problem Source](https://www.trizland.ru/tasks/1740/)

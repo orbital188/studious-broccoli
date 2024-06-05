@@ -1,0 +1,5 @@
+# Problem 1277. “Between conscience and money”
+
+In the first half of the 16th century in Germany, Cardinal Albrecht of Brandenburg enjoyed the notoriety of a cunning, unprincipled, rich, power-hungry money-grubber. At the same time, he was a philanthropist who wanted to be immortalized in the paintings of artists. Around 1520, the cardinal commissioned his portrait from the artist Louis Cranach the Elder - so that it would be pious, with the crucifixion of Christ. The artist faced a problem. To portray the cardinal the way he wants to see himself - humble, obsequious before the face of Christ, and go against his conscience as an artist? Or show the real essence of a greedy and evil powerful Catholic ruler - and then fall into disgrace with him and, naturally, not receive money. Cranach found a solution. How did he manage to solve the problem?
+
+[Problem Source](https://www.trizland.ru/tasks/5732/)

@@ -1,0 +1,5 @@
+# Problem 1254. Paper for Xerox 
+
+The first office copier, the Xerox 914, which hit the market in 1959, made it possible to copy documents onto plain paper. This was a significant breakthrough in office management, and Xerox received huge financial profits. Along with massive sales, the company insistently recommended that consumers use only white and smooth paper in their machines. Soon this fact attracted the attention of the US Trade Commission, which was called upon to settle relations between producers and consumers. Xerox management received a corresponding letter in which the Trade Commission demanded explanations and justification. Xerox responded to the request, and no further complaints were received against the company. How did copier manufacturers eliminate the issue of paper quality for their machines forever?
+
+[Problem Source](https://www.trizland.ru/tasks/5707/)

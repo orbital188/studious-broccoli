@@ -1,0 +1,5 @@
+# Problem 83. “Suicide… or is it still murder?”
+
+Sometimes whales and dolphins wash up on shallows and shores, and for no apparent reason. This still remains a mystery to scientists. The echolocation system of cetaceans is perfect. Thus, a dolphin emits sounds with a frequency from 49 to 170 kilohertz. If he makes low-frequency sounds, he has a general, vague image of his surroundings. If he needs a clearer image, he increases the frequency. And it can distinguish, for example, small balls of barely different diameters. The dolphin's echolocation allows it to see every fish in the school that it hunts. And with such sensitivity, cetaceans suddenly crash into the shore... Suggest hypotheses that explain this phenomenon. Also consider ways to prevent whale strandings.
+
+[Problem Source](https://www.trizland.ru/tasks/1275/)

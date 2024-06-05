@@ -1,0 +1,5 @@
+# Problem 1176. Landing a plane blindly 
+
+The Soviet supersonic bomber T-4 was created as the most effective weapon of its time. The aircraft could reach speeds of up to 3,000 km/h. The air defense systems of that time simply did not have time to target it with an anti-aircraft missile. To meet the high technical requirements, a number of original solutions were used in the aircraft design. One of them was the deflectable nose of the aircraft. In the air at high speeds, the nose of the aircraft rose to increase aerodynamics, and the pilot controlled the machine using instruments. During takeoff and landing, the nose lowered to provide visibility from the pilot's cabin. The designers also provided for the possibility of landing in an emergency situation, when the nose of the aircraft for some reason did not lower, and the pilot could not see the runway. How could the pilots land the aircraft in such an emergency situation?
+
+[Problem Source](https://www.trizland.ru/tasks/5627/)

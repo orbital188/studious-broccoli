@@ -1,0 +1,5 @@
+# Problem 2. “Is Old Man Hottabych to blame?”
+
+Anyone who has read one fairy tale remembers that Old Man Hottabych “rooted” for his favorite football team. But he received a scolding from his venerable master Volka ibn Alyosha for the devastating expense. Hottabych then had to instantly infect all members of the losing team with measles. As a result, the result of the match was canceled. So what? History repeats itself. In September 1998, an American football match took place between the teams: Duke University and the Blue Devils (Florida). And the result? On the same day, all the players came down with a severe viral disorder stomach. It’s interesting that Old Man Hottabych was not present at this match... I would like to find out the reason for such an unexpected incident. Your versions?
+
+[Problem Source](https://www.trizland.ru/tasks/1777/)

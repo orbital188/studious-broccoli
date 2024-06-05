@@ -1,0 +1,5 @@
+# Problem 1368. “The first one goes!”
+
+The first parachute jump for recruits in the airborne training unit. The plane is in the sky, the soldiers are on the plane. The instructor opens the door, reminds that the parachutes will open automatically, and gives the command to jump. One by one, the paratroopers disappear behind the door. And suddenly one of the soldiers, seeing the gaping emptiness of the sky under his feet, develops a terrible fear. He rests his hands on the doorway and doesn’t want to jump for anything. Neither persuasion, nor orders, nor the instructor’s attempts to push the soldier out of the plane bring results. And time goes by. You have to jump, otherwise the plane will fly over the field where the parachutists are supposed to land.  How can an instructor push a new skydiver out of an airplane?
+
+[Problem Source](https://www.trizland.ru/tasks/6137/)

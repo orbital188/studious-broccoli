@@ -1,0 +1,5 @@
+# Problem 263. Automatic liquid waste sampler
+
+The production workshop is, understandably, dirty.  To keep it clean, the floors are washed from time to time. Water after washing the floors flows into a collecting tank. As the tank fills, the pump is automatically turned on.  The switching time is arbitrary.  After the tank is emptied - this takes 10-20 minutes - the pump turns off. The liquid after washing floors contains clay, sand, oil, wood chips and other dirt. During pumping, water passes through the pipe and must enter the storage bottle through a calibrated hole. 3-5 pumpings are performed per day. The accumulated sample, up to 15-20 liters, is pumped out once a week. But the small hole, which allows approximately 1/10,000 of the tank volume into the bottle, quickly becomes clogged with debris and the sample does not get into the storage bottle at all. The bottle often turned out to be empty. It was commissioned to develop an automatic sampler for liquid waste using electric and pneumatic drives... What should such an automatic machine be like? Source: Sat. CRISIS - CNTI, 1992, p. 76.
+
+[Problem Source](https://www.trizland.ru/tasks/5118/)

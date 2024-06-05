@@ -1,0 +1,5 @@
+# Problem 285. “Method for producing pentafluorohalogen”
+
+The direct formation of pentafluorohalogen through the interaction of fluorine and another halogen occurs at 200-300°C, elevated pressure, and is accompanied by high consumption and incomplete use of fluorine and severe corrosion of equipment.  Those. To excite the reaction and its required speed, high particle energy is required, which is usually achieved by heating. Heating, in turn, leads to severe corrosion and loss of substance: Cl2 + 5 F2 =(t=300; P=10a)=> 2 ClF5; MeO + F2 => MeFx. Patent 290530 (issued in the USSR in the name of the French company KAE) uses intermediate reactions (production of trifluorochlorine, its combination with cesium fluoride), occurring at lower temperatures (up to 100°C) and pressures: CsF + ClF3 =(20°C)=> CsClF4 =(+ F2, 100°C, 1 atm)=> CsF + ClF5. How to ensure the reaction occurs at a minimum temperature at which there is almost no corrosion of equipment? Source: Sat. SK-20, OLMI-ChuvSU, 1980.
+
+[Problem Source](https://www.trizland.ru/tasks/5138/)

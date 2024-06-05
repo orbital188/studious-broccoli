@@ -1,0 +1,5 @@
+# Problem 586. “Ships are draining water”
+
+Leaking even a liter of petroleum products into a water basin is punishable by a huge fine. But every day, up to three tons of water accumulate on each ship, which must be disposed of. The concentration of oil in water discharged into the open ocean should not exceed 100 mg/l. If the sea is closed, for example, the Baltic or Mediterranean, then no more than 15 mg/l, and in the Gulf of Finland, the discharge of oil products is generally prohibited. At the same time, each ship constantly discharges almost pure water from its cooling systems. How to determine, when oil products are found at sea, which ship discharged them? Or, better, how to prevent traces of oil from entering the sea, how to remove them from the drain water?
+
+[Problem Source](https://www.trizland.ru/tasks/5237/)

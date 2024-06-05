@@ -1,0 +1,5 @@
+# Problem 1361. “Provocation of a philatelist”
+
+In “pre-Internet” times, one English philatelist came up with the idea of ​​how to replenish his collection with new canceled stamps from different countries almost free of charge. He decided to use the classifieds section of a major British newspaper, which is read on all continents. But what should the announcement be? If you simply write, “Send the letter in a stamped envelope,” no one will respond. How did the philatelist provoke a whole stream of letters from almost all the countries where the newspaper was read? In “pre-Internet” times,  one English philatelist came up with the idea of ​​how to replenish his collection with new canceled stamps from different countries almost free of charge. He decided to use the classifieds section of a major British newspaper, which is read on all continents. But what should the announcement be? If you simply write, “Send the letter in a stamped envelope,” no one will respond. How did the philatelist provoke a whole stream of letters?
+
+[Problem Source](https://www.trizland.ru/tasks/6130/)

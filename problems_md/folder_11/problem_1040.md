@@ -1,0 +1,5 @@
+# Problem 1040. “About real Soviet warrant officers”
+
+Literally on the eve of the withdrawal of Soviet troops from Afghanistan, a group of enterprising warrant officers from the 40th Army decided to “punish” the traders of local dukan shops who bought everything from the military at a low price. The warrant officers decided to sell them a large batch of plastic caps from unguided rockets from aviation ammunition. The military themselves used these caps only as glasses during feasts - these items were not suitable for anything else in the conditions of Afghanistan. The dukan workers didn’t even know about it. Military swindlers managed to sell a whole KamAZ truck of plastic caps, so much so that the Afghans then tried to demand their money through the Soviet embassy. How did the warrant officers manage to convince cunning merchants to buy things they absolutely did not need?
+
+[Problem Source](https://www.trizland.ru/tasks/5485/)

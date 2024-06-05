@@ -1,0 +1,5 @@
+# Problem 1323. “Miracles of camouflage”
+
+The Second World War. Winter 1943-44. Territory of Belarus. German soldiers were leading a convoy of women to be sent to Germany when they were suddenly attacked by Soviet intelligence officers. The guards were shot. The women fled - some to their native village, others to hide in the forest. The scouts in white camouflage coats went further, but saw that several women were following on their heels - from those whom they had just freed. To the orders and persuasion of the commander, the women replied that they had nowhere to go, and they were afraid that they would be captured again. The commander’s main argument for not following them is unmasking: women in black sheepskin coats and short fur coats in a snow-white field catch the eye from afar and unmask the entire reconnaissance group. But after some time, the scouts saw that the women following them had managed to change their dark clothes to white ones. In this form, the soldiers were allowed to follow them. How did women manage to disguise their black sheepskin coats and sheepskin coats?
+
+[Problem Source](https://www.trizland.ru/tasks/6085/)

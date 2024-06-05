@@ -1,0 +1,5 @@
+# Problem 570. Presidential Poncho
+
+President Clinton found himself in an awkward position when he mistook the Romanian national flag for a cape. The fact is that the tricolor flag had a hole in the middle, from where the Romanians cut out communist symbols. The holey flag was a symbol of the anti-communist revolution of 1989. President Clinton wrote a letter to the Chairman of the country's legislature, Petra Roman, expressing gratitude for the poncho donated by the Romanian parliament. Yes! An extremely ridiculous situation: the President mistook the flag of another country for a poncho! Take such a symbol for a cape... What should the Chairman do - it is customary to respond to a letter. Moreover, you need to answer in such a way as not to offend the President of the United States. Politics, however...What would you do if you were Petre Roman? See. discussion of the problem in the forum
+
+[Problem Source](https://www.trizland.ru/tasks/1614/)

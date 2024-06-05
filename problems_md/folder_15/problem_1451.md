@@ -1,0 +1,5 @@
+# Problem 1451. “Sculptor and portrait painter”
+
+At all times, royalty immortalized their images in picturesque portraits and sculptures. He did the same in the 17th century. and the English King Charles I, for whom Anthony van Dyck, famous for his portraits, served as his court artist. A talented artist could paint a portrait of the king in just a few posing sessions. The sculptor needed much more time to create a bust of the monarch. And Charles I, as a rule, lacked it. You can, of course, try to make a sculpture based on Van Dyck’s image. But the king appears in portraits from one specific angle. This is acceptable for an artistic canvas, but sculpture has its own laws. How did the portraitist van Dyck help the court sculptor sculpt the bust of Charles I?
+
+[Problem Source](https://www.trizland.ru/tasks/6222/)

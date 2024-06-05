@@ -1,0 +1,5 @@
+# Problem 1186. “There is no dispute about tastes”
+
+All over the world, manufacturers of products such as cakes, confectionery, ice cream, and chewing gum are constantly experimenting in search of new taste qualities for their products. Some tastes replace others. Some flavor properties gain popularity and become proprietary brands, while others disappear from the range of manufacturers. However, the taste properties often remain in the memory of consumers. The American company Ben & Jerry's, one of the popular ice cream manufacturers, has found a way for advertising purposes to preserve the memory of its ice cream varieties, which have long disappeared from store shelves. Anyone can remember at any time what kind of ice cream the company has produced since 1978. How does Ben & Jerry's manage to remind consumers of the taste of its products?
+
+[Problem Source](https://www.trizland.ru/tasks/5637/)
