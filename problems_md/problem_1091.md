@@ -1,0 +1,5 @@
+# Problem 1331. “Mirror” kisses
+
+A cleaning lady at one of the schools complained to the director that traces of lipstick appeared on the mirror in the women's restroom every day. Removing lipstick from a mirror is a tedious task. But as soon as the cleaning lady carefully cleans everything in the evening, the next day the lipstick appears again. These are fashionable high school girls who secretly touch up their lips in the toilet, and then, as a joke, leave kiss marks on the mirror. To rectify the situation, the school principal gathered all the high school girls in the toilet and explained to them in an original way why they should not kiss the mirror. The lipstick didn't appear again. How did the director manage to convince the girls not to touch their lips to the mirror?
+
+(https://www.trizland.ru/tasks/6099/)

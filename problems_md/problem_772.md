@@ -1,0 +1,5 @@
+# Problem 970. Perseus and Medusa 
+
+Once upon a time in Greece there lived a king who had a son, Perseus. The gods predicted to the king that he would die at the hands of his son. The king was frightened and decided to get rid of Perseus. The father ordered the young man to bring the head of Medusa the Gorgon to the palace. Perseus took the sword and set off on the road. He did not know what a difficult task his father had given him. Medusa was a terrible monster. Instead of arms she had wings, instead of legs she had paws with terrible claws, her head was human, but instead of hair there were poisonous snakes curling on it. Medusa’s face was beautiful, but whoever looked at it turned to stone. The god Hermes gave the hero his winged sandals, and the goddess Athena gave Perseus a shield sparkling like a mirror. But how can you use them to deal with Medusa? After all, you can’t look at her, and if you don’t look, then how can you fight?
+
+(https://www.trizland.ru/tasks/1456/)

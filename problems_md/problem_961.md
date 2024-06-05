@@ -1,0 +1,5 @@
+# Problem 1194. “You can’t leave deleting”
+
+A commercial company has a computer network with many hundreds of users. In the course of their work, users create various files and save them in separate folders on a central server. Everything would be fine, but the number of files is growing (new ones appear in addition to old ones), which makes it necessary to purchase additional hard drives for the central server. This entails significant costs. An attempt to assign responsibility for files from users failed, because. they must solve business problems. In the same way, the idea of ​​forcibly deleting files by technical specialists failed because it could stop users from working due to the lack of necessary information. How to stop uncontrolled file growth without putting the company's business at risk? A real practical business problem. It seems simple at first glance, but there is no obvious solution. Submit your options!!!
+
+(https://www.trizland.ru/tasks/5645/)

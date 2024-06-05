@@ -1,0 +1,5 @@
+# Problem 105. “Did you order help?”
+
+Is it easy to ask for help? It couldn't be easier! Take it and ask. Although, this, in general, depends on the “size of the request.” Well, what if the request is not very big? Is it easy then to ask for help? Easy. Just tell me. That's bad luck - what if there is no one to ask? But here they are – “people” – nearby. Is it worth asking for help now? No problem, go ahead and ask. No problem? What if there are problems with speech? Or you live in a society where making a public request is not welcomed, or rather, condemned. Well, let’s see how easy it is. Japan. Shame culture. These are the cultural characteristics: a Japanese woman would prefer to grit her teeth and endure the advances of a bully in a crowded subway car than to ask for help. A Japanese woman, of course, wants to help herself, but it’s not customary in society to ask for help. Help solve her problem.
+
+(https://www.trizland.ru/tasks/1817/)

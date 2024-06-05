@@ -1,0 +1,5 @@
+# Problem 115. “The Problem of the Kingdom of Tonga”
+
+The Kingdom of Tonga is a small island state in Oceania near the one hundred and eightieth meridian. It is separated from the more famous state of Western Samoa only by a relatively small strait. Tonga is a fairly modern country. It even has its own constitution. One of the sections of the constitution states that the state religion of Tonga is Methodism (one of the areas of Baptistism). According to the norms of Methodism - and this is written in the constitution - the day off is Sunday. However, about thirty percent of the population are Seventh-day Adventists. And according to their rules, Saturday is a day off. Many household and industrial problems arise. Taking two days off is unacceptable for either religious or economic reasons. What should I do?
+
+(https://www.trizland.ru/tasks/1794/)

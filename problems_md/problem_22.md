@@ -1,0 +1,5 @@
+# Problem 28. Niels Bohr Medal
+
+In 1943, the greatest physicist of the 20th century, Nobel Prize winner in 1922, Niels Bohr, hiding under an assumed name, was forced to flee Nazi-occupied Denmark. The fishermen secretly transported him by boat to Sweden. You were not allowed to take any valuables with you. And even more so, a gold medal from a Nobel laureate, which, in the event of an unsuccessful operation, could immediately betray the scientist. Simply hiding the medal somewhere in Copenhagen or handing it over to someone for safekeeping was dangerous, unreliable and there was no time - there was a war going on... And yet, returning a few years later from the USA to Denmark after the war, Bohr received his medal in its original form. How did he do it?
+
+(https://www.trizland.ru/tasks/5041/)

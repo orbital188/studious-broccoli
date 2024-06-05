@@ -1,0 +1,5 @@
+# Problem 547. “Taming the “electric genie””
+
+It is difficult to clean parts without risk of explosion due to the build-up of static electricity. You need to either come up with a non-flammable and non-explosive washing liquid, or “pacify the electric genie”. While washing liquids burn and explode. For example, they wash parts with gasoline: during friction, gasoline, like a dielectric, becomes electrified - a spark and fire can occur. The second way: antistatic additives based on diethylene glycol ether have been developed. With these additives, static electricity does not accumulate on the surface of the parts being processed, but after the solvent itself evaporates, the additive remains on the surface, since it is a high-molecular non-volatile (poorly evaporating) product. After such cleaning, the product must be cleaned again. What to do? Source: Sat. RTEZ 1999, Ed. ChuvSU, s. 25, 94.
+
+(https://www.trizland.ru/tasks/5220/)

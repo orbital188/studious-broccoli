@@ -1,0 +1,5 @@
+# Problem 1344. “Siege is not for women”
+
+In the 12th century, a bloody war between the armies of the ancient royal families of Steiffen and Welf was fought on the territory of today's Germany. In 1140, the troops of King Conrad of Steiffen surrounded the burg (fortress town) of Weinsberg. The city's inhabitants resisted desperately, but the forces were unequal. The besieged understood that inevitable death awaited them all. And then a parliamentarian arrived from King Conrad, who reported the royal decree: all women were free to leave the fortress town and take with them everything they could carry in their hands. Male warriors must surrender. Otherwise, they would die. The women of besieged Weinsberg not only took advantage of the royal mercy themselves, but also managed to save all their husbands and brothers. How did they do it?
+
+(https://www.trizland.ru/tasks/6112/)

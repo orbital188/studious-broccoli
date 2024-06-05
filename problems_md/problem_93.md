@@ -1,0 +1,5 @@
+# Problem 120. “Two profiles – but one coin!”
+
+Traditionally, before each inauguration, the portrait of the next President of the United States is minted on a silver coin. In 2000, the executive director of the mint, Thomas Brockle, had to rack his brains about whose profile would appear on the commemorative coin. It was time to mint the coin, but the president had not been named (remember, all of America was watching the recount of ballots in several US states). First, Gore was declared the winner in Florida, then Bush, then no one at all... Minting coins with the image of the US President - even before the inauguration - is a custom that cannot be changed. Time is running out. There is still a day to go before the inauguration, and the president has not yet been announced. What to do?
+
+(https://www.trizland.ru/tasks/1808/)

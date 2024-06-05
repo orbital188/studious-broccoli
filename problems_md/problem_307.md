@@ -1,0 +1,5 @@
+# Problem 386. “Method of precipitation of metal hydroxides from kerosene solutions”
+
+There is a known method for the precipitation of metal hydroxides from aqueous solutions using aqueous solutions of alkalis. When applying this method to solutions of metal compounds in organic solvents (kerosene, benzene, etc.), 3 layers should form: at the bottom - a hydroxide precipitate, in the middle - an aqueous layer and at the top - an organic layer. To quickly establish equilibrium and achieve complete deposition, intensive mixing of the layers is necessary. In this case, the amorphous sediment captures noticeable amounts of both liquid phases. Therefore, a certain and variable proportion of sediment always collects at the interface between the liquid phases after mixing and settling. Such sediment is easily lost when draining the liquid phases. How to reduce sludge loss? Source: Sat. CRISIS - CNTI, 1992, p. 106.
+
+(https://www.trizland.ru/tasks/5169/)

@@ -1,0 +1,5 @@
+# Problem 32. “Railway against homeowners”
+
+In 1938, twenty homeowners in Baltimore, USA, sued the Pennsylvania Railroad, claiming that vibrations caused by passing trains were damaging the walls, ceilings and plaster of their homes. The houses stood along the street along which the railroad track ran. Several trains passed through it every day. Heavy trucks also drove along the street, but the process was organized only against the railway. And although representatives of the railway company were sure that the accusations were incorrect, they had no opportunity to refute them in court. Moreover, the jury members were not seismography specialists, but ordinary citizens. How can you clearly prove that vibration from passing trains does not destroy nearby houses?
+
+(https://www.trizland.ru/tasks/5048/)

@@ -1,0 +1,5 @@
+# Problem 394. “Method for producing ethylene oxide”
+
+The oxidation process with the participation of a catalyst is accompanied by the release of a large amount of heat. With existing technology, the reaction occurs on a small grid area with a catalyst, where it is in contact with the raw material. 2 C2H2 + O2 =(kat, t)=> 2 H2C---CH2 + Q \O/. Large heat release with a large supply of reagents and high productivity of the apparatus can lead to overheating and an explosion. Therefore, it is necessary to make large-sized systems of complex structures in order to disperse and remove excess heat. How can you change the method of producing ethylene oxide in order to obtain a lot of the target product (ethylene oxide) in the same small-sized reactor and avoid overheating? Source: Sat. CRISIS - CNTI, 1992, p. 107.
+
+(https://www.trizland.ru/tasks/5172/)

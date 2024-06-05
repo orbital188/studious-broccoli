@@ -1,0 +1,5 @@
+# Problem 1011. “The list of rework goes on and on”
+
+Walt Disney, achieving high quality films, polished his work many times. Competitors spent 12 (!) times less money on creating films of similar volume. Naturally, Disney was forced, as they say, to put everything on each film. Here's what happened during the filming of Snow White and the Seven Dwarfs: “Disney and its studio owed money to everyone around them. Every now and then panic began: the money had been spent again and it seemed that the film would never be finished. Roy the studio's brother and business executive and Walt approached the bankers. They hesitated: isn’t it strange to provide hundreds of thousands for the production of some “cartoon”?…” It’s worth explaining here. Firstly
+
+(https://www.trizland.ru/tasks/1771/)

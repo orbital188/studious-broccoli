@@ -1,0 +1,5 @@
+# Problem 151. What to do with the dog?
+
+Today I realized that only TRIZ people can help with my problem... I got a treasure, a temporary Brussels Griffon puppy. 2 months. So, waking up at 6 in the morning, he begins to squeak and jump on his hind legs near the bed, asking to go to bed. I am fundamentally against dogs in bed, so I try not to let him... He whines for a long time and loudly, in the end I take him to my place and sleep for the last hour, promising myself that this is the last time. In the morning everything repeats itself. What should I do to prevent him from asking???? I’ve been living with this thought for a week... He has a house, and during the day he sleeps well in it... And in the morning he wants to go to bed: (Can you help?
+
+(https://www.trizland.ru/tasks/1875/)

@@ -1,0 +1,5 @@
+# Problem 1257. “What is the use of crows?”
+
+It has long been noticed that crows love to drag various small shiny objects into their nests and at the same time are well trained. However, most people treat crows with caution and hostility, believing that these ominous black birds can only carry infectious diseases and destroy crops. In some places they even propose to exterminate them for this. But instead of simply getting rid of crows, it is better to try to use this natural resource for the benefit of humans. How can this be done? It has long been noticed that crows love to drag various small shiny objects into their nests and at the same time are well trained. However, most people treat crows with caution and hostility, believing that these ominous black birds can only carry infectious diseases and destroy crops. In some places they even propose to exterminate them for this. But instead of simply getting rid of crows, it is better to try to use this natural resource for the benefit of humans. How can I do that?
+
+(https://www.trizland.ru/tasks/5709/)

@@ -1,0 +1,5 @@
+# Problem 952. “Bloody Bread”
+
+In 1819, in the house of the Italian peasant Pitarello in Legnaro, near Padua, “blood” appeared on food products. Having discovered such a “miracle,” the frightened peasant turned to the local priest for help. The church minister understood this no more than the dark peasant and limited himself to serving a prayer service. The “bloody stains” did not disappear because of this, but soon appeared in other houses. Panic arose among the population, and it is unknown how all this would have ended if the doctor Sette had not revealed the secret of this “magical” phenomenon. The doctor guessed that the coloring of food was due to the development of microbes. Sette understood that it was completely useless to explain this to illiterate peasants. The doctor also could not destroy the “bloody” microbes in all houses. How did Sette manage to stop the panic among the peasants?
+
+(https://www.trizland.ru/tasks/1839/)

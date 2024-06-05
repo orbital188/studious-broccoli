@@ -1,0 +1,5 @@
+# Problem 854. “Shoot chickens”
+
+NASA came up with a cannon that was loaded with chicken carcasses and fired at airplane windshields. The charge was calculated so that the speed of the chicken corresponded to the speed of the aircraft during takeoff/landing. This is how they tested the strength in a collision with birds during takeoff and landing. The British learned about the tests. We bought a gun. And they began to test their high-speed train. Shot. The chicken breaks the especially strong glass into fine dust, breaks through the instrument panel, knocks down the driver's chair and tests the strength of the rear wall of the cabin. Can you imagine the feelings of the experimenters? And we need to figure out what happened? Shall we help the British? Express your versions.
+
+(https://www.trizland.ru/tasks/1692/)

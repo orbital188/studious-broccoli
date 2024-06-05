@@ -1,0 +1,5 @@
+# Problem 1353. “Empty tubes”
+
+At a toothpaste manufacturing plant, a problem was discovered: the conveyor sometimes malfunctioned and produced empty tubes. It was not possible to eliminate the cause of the problem with high-tech equipment on our own, so management turned to an engineering company. They developed special scales, which were installed on the assembly line six months later. The project cost $8 million. Every time the scale showed a deviation from the norm, the siren turned on and the conveyor stopped. The worker manually removed the defective tubes and started the unit again. This had to be done quite often. Eventually, one of the workers got so fed up with it that he found a simple and cheap way to automatically remove empty tubes from the conveyor before they even hit the checkweigher. Then it turned out that the enterprise had practically thrown away both time and money. How did the worker solve the problem of removing empty tubes from the conveyor?
+
+(https://www.trizland.ru/tasks/6122/)

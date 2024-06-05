@@ -1,0 +1,5 @@
+# Problem 611. Jaguar and Rabbit 
+
+At Jaguar’s dacha, the entire garden is overgrown with nettles. Jaguar himself was too lazy to weed, and he promised the one who weeded the garden a reward - a whole cow. There were no takers. The Jaguar was completely upset, but then there was a knock on the door and the Rabbit came in. “Did you promise a cow for weeding?” - he asked Jaguar. Jaguar couldn’t find what to answer. Give such a big cow to such a small Rabbit? The Jaguar decided to outsmart the Rabbit and said: “Well, so be it, I’ll give you the cow.” But you must pull out all the nettles and not scratch yourself even once. And my son, little Jaguar, will look after you. The rabbit agreed, and they went to the garden. Nettles stood above the ears. The Rabbit got to work. With sin, he weeded half the plot. And the skin is already itching - I have no strength, I just want to scratch it! What should the Rabbit do? If only you could scratch your skin and not lose your reward.
+
+(https://www.trizland.ru/tasks/1726/)

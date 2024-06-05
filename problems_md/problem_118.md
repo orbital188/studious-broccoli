@@ -1,0 +1,5 @@
+# Problem 150. Leaflet trees 
+
+Military victories depend not only on weapons and the number of troops. The spirit of the army is what often determines victory. Military leaders understand this. One day in 1418, an uprising of Vietnamese resistance to the Chinese dictator began. Adviser to the leader of the uprising, Nguyen Trai, saw winning the hearts of the Vietnamese people as important as military victory over their enemies. And he ordered a prophecy to be written on the leaves of the tree in the finest strokes: “Le Loi will become king, and Nguyen Trai will be his minister.” But to say one thing, and to do something else. How to write on many leaves? And you can’t pick the leaves and show that these inscriptions were made by human hand, but by divine providence. How did they solve the problem?
+
+(https://www.trizland.ru/tasks/1745/)

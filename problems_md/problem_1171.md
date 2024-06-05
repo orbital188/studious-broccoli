@@ -1,0 +1,5 @@
+# Problem 1415. “Concrete “to taste””
+
+The dome of the majestic Temple of All Gods - the Pantheon, erected in Rome in the 2nd century. n. e., made of concrete, has the shape of a hemisphere and weighs, according to experts, almost 5000 tons. To support such a colossus, the builders made the walls of the dome at the base three times thicker than at the top. In addition, depending on the height, the weight of the concrete itself, from which the dome is built, also decreases. How did ancient Roman builders manage to change the weight of concrete without losing its strength? Concrete “to taste” The dome of the majestic Temple of all the gods - the Pantheon, built in Rome in the 2nd century. n. e., made of concrete, has the shape of a hemisphere and weighs, according to experts, almost 5000 tons. To support such a colossus, the builders made the walls of the dome at the base three times thicker than at the top. In addition, depending on the height, the weight of the concrete itself, from which the dome is built, also decreases. How did ancient Roman builders manage to change the weight of concrete without losing its strength?
+
+(https://www.trizland.ru/tasks/6184/)

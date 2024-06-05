@@ -1,0 +1,5 @@
+# Problem 1188. And when the sea is rough...
+
+In the 1960s, American oceanographers began to clearly lack data on the state of the aquatic environment obtained from equipment on conventional submarines. The research dealt with such areas as the propagation of seismic waves in the ocean, heat exchange between deep and surface waters, display of ocean noise, etc. When carrying out such ultra-precise measurements, it was necessary, first of all, to eliminate as much as possible any extraneous noise and minimize pitching. We decided to build a specialized research vessel. The first problem during construction was solved relatively simply. In 1962, a specific ocean-going “barge” was built and transported by tugboat. The length of the vessel, which housed only the necessary research equipment, is 108 meters. There is no engine or power plant on the vessel that could interfere with the accuracy of acoustic measurements. How did you manage to solve the problem of minimizing pitching on the ship?
+
+(https://www.trizland.ru/tasks/5639/)

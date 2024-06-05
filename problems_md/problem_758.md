@@ -1,0 +1,5 @@
+# Problem 953. “How to defeat the rabbits?”
+
+In 1859, one of the farmers brought 24 wild rabbits to Australia, which had never been found here before. At that time, Europeans began to populate the Australian continent, and the new settlers had to be provided with meat. Soon the rabbits multiplied so much that they became a scourge for the entire continent. They had no natural enemies, and wild rabbits devastated crops and pastures, gardens and forests. No hunters could cope with them. They wanted to use wolves, but they wisely abandoned this idea - after all, these predators will attack not only rabbits. What to do? To combat rabbits, they decided to use the myxomatosis disease virus. This virus, dangerous only for rabbits, is transmitted through blood. It was specially brought from Brazil. But how to infect wild rabbits with the virus?
+
+(https://www.trizland.ru/tasks/1838/)

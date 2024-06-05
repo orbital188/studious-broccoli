@@ -1,0 +1,5 @@
+# Problem 1099. How to divide the bonus?
+
+Bonuses based on work results for a certain period have always been a good incentive for members of the production team. But in some divisions of large international production and financial corporations - for example, such as Sony - the success of the team most often depends on the effective actions of the entire team. As a rule, there is a profit based on the results of work. This means that the bonus fund is replenished. But who and, most importantly, in what amount to reward for overall success is not entirely clear. Everyone equally? But then the motivational factor of the most active employees may well change. Spend money on one common “good cause”? The “personal” aspect and the interest of a particular employee in the overall activities of the team disappears. Some divisions of Sony Corporation have found a simple and “not offensive” way for all team members to share bonuses. How do they do this?
+
+(https://www.trizland.ru/tasks/5547/)

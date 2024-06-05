@@ -1,0 +1,5 @@
+# Problem 701. “Europe plus… Kuwait”
+
+Renowned Finnish architect Raim Pietile was invited to Kuwait to design and build a new government building. Until now, the architect has built in Finland and is accustomed to working in the European architectural style, which is characterized by straight lines and right angles. He wanted to preserve this style in the new order. But Kuwait is a typical Arab country. With typical Arabic architecture. The sinuous contours characteristic of this style are reminiscent of Arabic writing. A rectilinear European building will not fit into its surroundings. This is unacceptable either for professional or aesthetic reasons. What should an architect do to preserve the European style, but not create a contrast with the surrounding architecture?
+
+(https://www.trizland.ru/tasks/1466/)

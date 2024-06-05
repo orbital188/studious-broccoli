@@ -1,0 +1,5 @@
+# Problem 631. “Coronation of Napoleon”
+
+In 1804, Napoleon Bonaparte wished to take the title of emperor in order to own, like his idol Charlemagne, a huge Western Empire. At the same time, like his famous predecessor, he was to be crowned by the Pope. At the same time, his pride, military power and distrust of the pope prevented the desire to take the crown from his hands. Bonaparte faced a real problem, based on the clash of two opposing desires: to be and not to be crowned. How did Napoleon resolve the contradiction? In 1804, Napoleon Bonaparte wished to take the title of emperor in order to own, like his idol Charlemagne, a huge Western Empire. At the same time, like his famous predecessor, he was to be crowned by the Pope. At the same time, his pride, military power and distrust of the pope prevented the desire to take the crown from his hands. Bonaparte faced a real problem, which was based on the clash of two opposing desires: to be and not to be crowned. How did Napoleon resolve the contradiction?
+
+(https://www.trizland.ru/tasks/5270/)

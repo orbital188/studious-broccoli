@@ -1,0 +1,5 @@
+# Problem 129. “Coating metal surfaces”
+
+When coating metal surfaces chemically, the metal product is placed in a bath filled with a hot solution of a metal salt (nickel, cobalt, palladium, gold, copper) and a reducing agent (for example, sodium hypophosphite NaH2PO2).  According to the reduction reaction, metal from the solution is deposited on the surface of the product: Ni(2+) + H2PO2(-) + H2O =(t)=> Ni(solid) + H2PO4(-) The process proceeds faster the higher the temperature. But at high temperature, the solution decomposes, the metal falls out on the walls of the bath, “the solution becomes cloudy,” and the quality of metallization deteriorates. The solution quickly loses its working properties and has to be changed frequently. Up to 75% of chemicals go to waste (or “recycling”), which increases the cost of the process. It is known to use stabilizing chemical additives, but they only increase the stability of the solution to a very small extent. How to eliminate these disadvantages?
+
+(https://www.trizland.ru/tasks/5075/)

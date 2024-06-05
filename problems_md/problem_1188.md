@@ -1,0 +1,5 @@
+# Problem 1432. Refueling on the go
+
+For normal engine operation, steam locomotives needed a large amount of water, often even more than coal. The water is located in a special compartment - the tender. The water supply had to be replenished every 100-120 km. For this purpose, large reservoirs were provided at the stations. The train stopped. Water was poured into the tender tank with a hose, after which the locomotive continued moving. Naturally, this significantly increased the delivery time of goods. In the first half of the 20th century, American railroad workers found a way to fill a steam locomotive with water from open land sources without stopping - right while moving. On long hauls across the endless prairies, this had a significant economic effect. How can a steam locomotive be filled with water while moving?
+
+(https://www.trizland.ru/tasks/6201/)

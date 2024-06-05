@@ -1,0 +1,5 @@
+# Problem 1397. “Pay the toll and sail calmly”
+
+The bulk of Denmark's budget in the Middle Ages consisted of duties paid to the treasury by merchant ships passing through the Denmark Strait. Depending on the type of goods transported, the duty was up to 2 percent of its value. Large merchant ships sometimes accumulated in large numbers in the strait. Customs officers simply did not have time to thoroughly check all of them. Then they collected the fee on a “declaration” basis.  And some captains, quickly understanding the situation, in order to pay less for the passage of the strait, declared an underestimated value of the transported goods. Danish customs officers “saw through” the ruse and created conditions under which the cunning captains abandoned their intentions. How was this done?
+
+(https://www.trizland.ru/tasks/6166/)

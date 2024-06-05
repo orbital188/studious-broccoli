@@ -1,0 +1,5 @@
+# Problem 1290. Three Lenins 
+
+In the mid-1960s, three films were urgently shot at the Mosfilm studio to mark the 50th anniversary of the October Revolution. In each film there was a role of Lenin, played by different actors. On the site everything was going in working order, but during a short lunch break it happened that all three “Lenins” gathered in one line in the Mosfilm canteen. Among the visitors to the dining room, this caused an unhealthy, from the point of view of the leadership, excitement for the image of the leader of the world proletariat. Something had to be done. Let it be as it is? You can incur the wrath of party ideologists. Ban specific actors from using the canteen for a period of time? What will the union say? Make you take your makeup off during your lunch break? Lost shooting time. How did the management of Mosfilm manage to get out of this piquant situation?
+
+(https://www.trizland.ru/tasks/5746/)

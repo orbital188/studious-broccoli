@@ -1,0 +1,5 @@
+# Problem 257. “About the grenade”
+
+A real incident that occurred during the war in Afghanistan. A column of Soviet armored vehicles was moving along a serpentine mountain road above a deep gorge. Suddenly, Afghan mortars began firing from the bottom of the gorge. They used their favorite tactic: they disabled the front and very last armored personnel carriers. After which they began to methodically shoot the rest - there was nowhere for them to go on the narrow mountain road... What to do? The soldiers opened fire with machine guns, but the Afghans fired from under a rocky canopy and the bullets did not reach them. An attempt to throw grenades also failed. The fuse of a lemon grenade is triggered 3-4 seconds after the pin is pulled and its lever is released, that is, when the grenade is thrown. The gorge was very deep, and the grenades exploded before reaching the bottom. And the same rocky canopy protected from fragments... But a way out was found! How?
+
+(https://www.trizland.ru/tasks/1750/)
